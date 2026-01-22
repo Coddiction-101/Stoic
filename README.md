@@ -107,7 +107,7 @@
 - Mirror neurons & emotional contagion
 - Instant gratification vs. delayed reward
 
-### B. Trauma & Behavioral Patterns
+### B. Trauma, Behavioral Patterns & Mental Health
 
 - Fight, flight, freeze, fawn
 - Emotional masks
@@ -115,7 +115,16 @@
 - People-pleasing
 - Insecurity turning into ego
 - Silent pain & hidden suffering
-
+- Persistent depressive disorder - PDD
+- Major depressive disorder - MDD
+- Bipolar disorder - I , II
+- Social Isolation
+- De-realization
+- Possible depersonalization
+- Short dissociated Episodes
+- Sleep Deprivation effects
+- Haptic jerks
+- Post - traumatic stree disorder - PTSD
 ---
 
 ## VI. **Mental Health & Modern Crisis**
