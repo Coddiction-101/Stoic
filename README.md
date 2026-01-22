@@ -1,22 +1,5 @@
-<aside>
-
-[Dump](https://www.notion.so/Dump-24f89563e9aa80e3be7fca78cfa97da4?pvs=21)
-
-[Nihilistic Psyche](https://www.notion.so/Nihilistic-Psyche-1b589563e9aa8080af80ef72fb8edb64?pvs=21)
-
-[**SOLO TRIP HACKS**](https://www.notion.so/SOLO-TRIP-HACKS-23989563e9aa80e7bfb7ebb222bea3bd?pvs=21)
-
-[Quotes.](https://www.notion.so/Quotes-2b489563e9aa8062a3bdf6a3450af79c?pvs=21)
-
-</aside>
-
-![](https://i.pinimg.com/1200x/be/06/ab/be06abf8ef49dcbb082e8afe9ef4f37d.jpg)
-
-<aside>
-
 # **The Compendium of Life’s Paradoxes and Profound Mysteries**
 
----
 
 *A structured map of reality, mind, power, and human existence*
 
@@ -410,31 +393,31 @@
 - *Three kings*
 - *Daruma-san (Bathtub)*
 - *Elevator to Hell*
-- [ ]  *Airbus A380 Flying Palace*
-- [ ]  *Mar’s Perseverance Rover*
-- [ ]  *NORTHDROP B-2 Spirit*
-- [ ]  *USS Zumwalt Stealth Destroyer*
-- [ ]  *Large Hadron Collider*
-- [ ]  *Columbia-Class Submarine*
-- [ ]  *James Web Space Telescope*
-- [ ]  *SpaceX Start Link Satellite Constellation*
-- [ ]  *Gerald R. Ford-Class Aircraft Carrier*
-- [ ]  *International Space Station*
-- [ ]  *The Dark Forest Theory*
-- [ ]  *Quantum telepathy*
-- [ ]  *Rogue planets*
-- [ ]  *Oumuamua*
-- [ ]  *The Bootes Void*
-- [x]  *The ‘WOW’ Single*
-- [ ]  *FRB 121102*
-- [ ]  *TIC 168789840*
-- [ ]  *The Great Attracter*
-- [ ]  *TON 618*
-- [ ]  *Browser hijacking*
-- [ ]  *Wick Effects*
-- [ ]  *Spontaneous Human Combustion*
-- [ ]  *The egg theory*
-- [ ]  *Blanets*
+- *Airbus A380 Flying Palace*
+- *Mar’s Perseverance Rover*
+- *NORTHDROP B-2 Spirit*
+- *USS Zumwalt Stealth Destroyer*
+- *Large Hadron Collider*
+- *Columbia-Class Submarine*
+- *James Web Space Telescope*
+- *SpaceX Start Link Satellite Constellation*
+- *Gerald R. Ford-Class Aircraft Carrier*
+- *International Space Station*
+- *The Dark Forest Theory*
+- *Quantum telepathy*
+- *Rogue planets*
+- *Oumuamua*
+- *The Bootes Void*
+- *The ‘WOW’ Single*
+- *FRB 121102*
+- *TIC 168789840*
+- *The Great Attracter*
+- *TON 618*
+- *Browser hijacking*
+- *Wick Effects*
+- *Spontaneous Human Combustion*
+- *The egg theory*
+- *Blanets*
 - *Doomsday Vault Norway*
 - *Metro 2 Russia*
 - *Jiangsu Museum*
