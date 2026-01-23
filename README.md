@@ -728,6 +728,12 @@
 
 <aside>
 
+<aside>
+
+# technical stuff to research
+
+</aside>
+
 *Do not disturb yourself by imagining your whole life at once - Marcus Aurelius*
 
 When the rain stops, The umbrella becomes heavy for everyone
