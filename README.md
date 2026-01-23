@@ -732,6 +732,8 @@
 
 # technical stuff to research
 
+- Guide to GSOC 2026
+
 </aside>
 
 *Do not disturb yourself by imagining your whole life at once - Marcus Aurelius*
