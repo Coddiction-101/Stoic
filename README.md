@@ -326,7 +326,7 @@
 - **You don’t experience reality continuously**
 - **Your brain decides before you’re aware**
 - **You live inside an simulation**
-- ""Brain Plasticity**
+- **Brain Plasticity**
 
 ---
 
