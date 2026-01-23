@@ -733,6 +733,7 @@
 # technical stuff to research
 
 - Guide to GSOC 2026
+- Guide to first internship 
 
 </aside>
 
