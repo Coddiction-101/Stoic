@@ -724,6 +724,7 @@
 - Earth suddenly stop spinning
 - Born on a space station
 - No Oxygen for 5s
+- If the internet suddenly goes down everywhere
 </aside>
 
 <aside>
