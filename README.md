@@ -431,10 +431,7 @@
 - Darvaza Gas Crater, Turkmenistan (burning pit of fire since 1971 — "Door to Hell")
 - Mayong Village, Assam India (known as the land of black magic)
 - Suicide Forest of Mount Fuji Underground Cave System
-
-
-
-
+- Ilha da Queimada Grande, Brazil (Snake Island — 1 snake per sq meter)
 
 
 
