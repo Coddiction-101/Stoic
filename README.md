@@ -421,6 +421,7 @@
 
 ## Places Shouldn't Exist on The Earth
 - Sedlec Ossuary, Czech Republic (church decorated with 40,000 human bones)
+- Aokigahara Forest, Japan (suicide forest at the base of Mt. Fuji)
 
 - Chernobyl
 - Area 51
