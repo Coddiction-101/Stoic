@@ -785,6 +785,8 @@
 - What if everyone suddenly forgot the last 24 hours except you
 - What if you could never tell if you were dreaming or awake
 - What if memories could be erased and sold
+- What if you discovered your entire childhood was implanted
+
 
 
 
