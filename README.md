@@ -780,6 +780,7 @@
 - Born on a space station
 - No Oxygen for 5s
 - If the internet suddenly goes down everywhere
+- What if you woke up and no one could see or hear you
 
 # technical stuff to research
 
