@@ -424,6 +424,8 @@
 - Aokigahara Forest, Japan (suicide forest at the base of Mt. Fuji)
 - Poveglia Island, Italy (plague island turned asylum, now abandoned)
 - Centralia, Pennsylvania (town burning underground since 1962)
+- Hoia-Baciu Forest, Romania (unexplained illness, missing time, apparitions)
+
 
 
 
