@@ -363,12 +363,51 @@
 
 ## **Disturbing Things and Books**
 
-1. **All Quiet on the Western Front** - Erich Maria Remarque
-2. **A Little Life** - Hanya Yanagihara
-3. **Of Mice and Men** - John Steinbeck
-4. **No Longer Human** - Osamu Dazai
-5. **The Trial** - Franz Kafka
-6. **Crime and Punishment** - Fyodor Dostoevsky
+### **Books**
+1. **All Quiet on the Western Front** - Erich Maria Remarque  
+2. **A Little Life** - Hanya Yanagihara  
+3. **Of Mice and Men** - John Steinbeck  
+4. **No Longer Human** - Osamu Dazai  
+5. **The Trial** - Franz Kafka  
+6. **Crime and Punishment** - Fyodor Dostoevsky  
+7. **The Road** - Cormac McCarthy  
+8. **Blood Meridian** - Cormac McCarthy  
+9. **1984** - George Orwell  
+10. **We Need to Talk About Kevin** - Lionel Shriver  
+11. **The Bell Jar** - Sylvia Plath  
+12. **House of Leaves** - Mark Z. Danielewski  
+13. **American Psycho** - Bret Easton Ellis  
+14. **Flowers for Algernon** - Daniel Keyes  
+15. **Johnny Got His Gun** - Dalton Trumbo  
+16. **The Painted Bird** - Jerzy Kosiński  
+17. **I Have No Mouth and I Must Scream** - Harlan Ellison  
+18. **Lolita** - Vladimir Nabokov  
+
+---
+
+### **Disturbing Films**
+1. **Requiem for a Dream** - Darren Aronofsky  
+2. **Melancholia** - Lars von Trier  
+3. **Come and See** - Elem Klimov  
+4. **Irreversible** - Gaspar Noé  
+5. **Martyrs** - Pascal Laugier  
+6. **Funny Games** - Michael Haneke  
+7. **Enter the Void** - Gaspar Noé  
+8. **Dogtooth** - Yorgos Lanthimos  
+9. **The Act of Killing** - Joshua Oppenheimer  
+10. **Eraserhead** - David Lynch  
+
+---
+
+### **Disturbing Documentaries**
+1. **The Act of Killing** - Real perpetrators of genocide reenact their crimes  
+2. **Dear Zachary** - A letter to a son about his murdered father  
+3. **Earthlings** - Industrial treatment of animals  
+4. **The Imposter** - A stranger convinces a family their missing child is him  
+5. **Capturing the Friedmans** - A family's unraveling during abuse allegations  
+6. **Three Identical Strangers** - Triplets separated at birth as a secret experiment  
+
+---
 
 ---
 
