@@ -531,52 +531,52 @@
 
 ## **Brain Was Not Designed For**
 
-- **Zoochosis**: Behavioral issues in captive animals.
-- **Digital Exhaustion**: Fatigue from excessive digital engagement.
-- **Eco-Paralysis**: Inaction due to overwhelming environmental issues.
-- **Micro-Isolation**: Feeling isolated despite being connected digitally.
-- **Phantom Vibration Syndrome**: The sensation of a phone vibrating when it is not.
-- **Influencer Dysmorphia**: Distorted self-image due to social media influence.
-- **Quantum Immortality**: The hypothesis that consciousness continues in alternate realities.
-- **Edits Reality in Real-Time**
-- **You see the past not the present**
-- **Your brain rewrites memories**
-- **You don't experience reality continuously**
-- **Your brain decides before you're aware**
-- **You live inside a simulation**
-- **Brain Plasticity**
+- **Zoochosis**: Behavioral issues in captive animals caused by unnatural living conditions.
+- **Digital Exhaustion**: Fatigue resulting from excessive engagement with digital devices and media.
+- **Eco-Paralysis**: Inaction or helplessness due to overwhelming environmental problems.
+- **Micro-Isolation**: Feeling isolated despite constant digital connection and social media presence.
+- **Phantom Vibration Syndrome**: The false sensation that your phone is vibrating when it isn't.
+- **Influencer Dysmorphia**: Distorted self-image influenced by social media standards and filters.
+- **Quantum Immortality**: The hypothesis that consciousness persists in alternate realities after death.
+- **Edits Reality in Real-Time**: The brain's ability to modify perceptions and interpretations instantly.
+- **You see the past not the present**: The brain reconstructs memories, often creating a delayed perception.
+- **Your brain rewrites memories**: Memories are malleable and can be altered over time.
+- **You don't experience reality continuously**: Perception is intermittent, with gaps and jumps.
+- **Your brain decides before you're aware**: Many decisions are made subconsciously before conscious awareness.
+- **You live inside a simulation**: The theory that reality might be an elaborate computer simulation.
+- **Brain Plasticity**: The brain's ability to reorganize itself by forming new neural connections.
 
 ### Modern Overstimulation
 
-- **Continuous Partial Attention**: Never fully focusing on anything — always half-present.
-- **Decision Fatigue**: Too many choices gradually degrading willpower and judgment.
-- **Headline Anxiety**: Reacting emotionally to news titles without ever reading the full story.
-- **Notification Addiction**: Compulsive checking behavior driven by unpredictable micro-rewards.
-- **Information Permanence Illusion**: Believing you'll remember what you read, so you never truly absorb it.
+- **Continuous Partial Attention**: Never fully concentrating on one thing, always half-focused on multiple stimuli.
+- **Decision Fatigue**: The deterioration of decision-making ability after making many choices.
+- **Headline Anxiety**: Emotional reactions triggered by news headlines without full context.
+- **Notification Addiction**: Compulsive checking of notifications driven by unpredictable rewards.
+- **Information Permanence Illusion**: Belief that once information is read, it is permanently retained.
 
 ### Perception Glitches
 
-- **Troxler Fading**: Stare at something long enough and the surrounding detail disappears.
-- **The Rubber Hand Illusion**: Brain adopts a fake limb as its own with enough sensory cues.
-- **Change Blindness**: Missing obvious changes happening directly in front of you.
-- **Inattentional Blindness**: Missing what you don't expect — the gorilla you never saw.
-- **Time Dilation**: Why years feel shorter as you age — fewer novel experiences.
-- **The Tetris Effect**: Brain keeps replaying and hallucinating patterns after prolonged repetition.
+- **Troxler Fading**: The fading of peripheral details when staring at a fixed point.
+- **The Rubber Hand Illusion**: The brain adopts a fake limb as its own through sensory cues.
+- **Change Blindness**: Failing to notice large changes in a visual scene.
+- **Inattentional Blindness**: Missing unexpected objects or events when attention is elsewhere.
+- **Time Dilation**: The sensation that time speeds up or slows down, often with age or during intense experiences.
+- **The Tetris Effect**: Replaying visual patterns in your mind after prolonged exposure or activity.
 
 ### Social & Emotional Misfires
 
-- **Nocebo Effect**: Believing something will harm you is enough to make it happen.
-- **Empathy Fatigue**: Compassion shutting down completely from chronic overexposure to suffering.
-- **Chronostasis**: The clock hand that appears to freeze the moment you look at it.
-- **Social Pain = Physical Pain**: Rejection activates the exact same brain region as physical injury.
-- **Misattribution of Arousal**: Confusing fear or adrenaline for romantic attraction.
+- **Nocebo Effect**: Negative expectations cause real harm or symptoms.
+- **Empathy Fatigue**: Emotional exhaustion from constant exposure to others’ suffering.
+- **Chronostasis**: The illusion that the first moment after a gaze or sound is longer than normal.
+- **Social Pain = Physical Pain**: Social rejection activates brain regions involved in physical pain.
+- **Misattribution of Arousal**: Confusing physiological arousal from fear or adrenaline as romantic attraction.
 
 ### Existential Overload
 
-- **Mortality Salience**: Awareness of death subtly distorting every decision you make.
-- **Apophenia**: Seeing patterns, connections, and meaning in completely random noise.
-- **Cosmic Insignificance Anxiety**: Brain cannot genuinely process its own smallness in the universe.
-- **Recursive Self-Awareness**: The brain trying to observe itself observing itself — an infinite loop.
+- **Mortality Salience**: Awareness of death influences decisions and perceptions unconsciously.
+- **Apophenia**: Seeing meaningful patterns in random data or noise.
+- **Cosmic Insignificance Anxiety**: Anxiety stemming from realizing human smallness in the universe.
+- **Recursive Self-Awareness**: The endless loop of the brain observing itself observing itself.
 
 ---
 
