@@ -427,6 +427,8 @@
 - Hoia-Baciu Forest, Romania (unexplained illness, missing time, apparitions)
 - Unit 731, Harbin China (secret WWII biological warfare complex)
 - Overtoun Bridge, Scotland (dogs inexplicably leap to death)
+- The Eltanin Antenna (unexplained structure found on ocean floor, 1964)
+
 
 
 
