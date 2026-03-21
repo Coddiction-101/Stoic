@@ -372,6 +372,72 @@
 
 ---
 
+# **Brain Was Not Designed For**
+
+Our brains are incredible, but many of the challenges we face stem from the fact that they weren't built for the modern world. Here's a breakdown of some common cognitive and emotional issues we experience:
+
+---
+
+## **Modern Overstimulation**
+
+- **Zoochosis**: Behavioral issues in captive animals, analogous to human stress from confinement and monotony.  
+- **Digital Exhaustion**: Fatigue resulting from excessive digital engagement and information overload.  
+- **Eco-Paralysis**: Inaction caused by feeling overwhelmed by environmental issues.  
+- **Micro-Isolation**: Feeling lonely despite being constantly connected online.  
+- **Phantom Vibration Syndrome**: The sensation that your phone is vibrating when it's not.  
+- **Influencer Dysmorphia**: Distorted self-image influenced by social media portrayals.  
+- **Quantum Immortality**: The speculative idea that consciousness persists across alternate realities.  
+
+### **How your brain handles reality:**  
+- **Edits Reality in Real-Time**  
+- You see the past, not the present  
+- Your brain rewrites memories  
+- You don't experience reality continuously  
+- Your brain makes decisions before you're aware of them  
+- You may live inside a simulation  
+- Brain plasticity enables constant adaptation  
+
+---
+
+## **Modern Overstimulation Symptoms**  
+
+- **Continuous Partial Attention**: Never fully focusing on anything.  
+- **Decision Fatigue**: Excessive choices depleting willpower.  
+- **Headline Anxiety**: Reacting emotionally to news titles without reading the full story.  
+- **Notification Addiction**: Compulsive checking of alerts.  
+- **Information Permanence Illusion**: Believing you'll remember everything you read.  
+
+---
+
+## **Perception Glitches**  
+
+- **Troxler Fading**: Staring at a fixed point makes surrounding images fade.  
+- **Rubber Hand Illusion**: The brain adopts a fake limb as its own.  
+- **Change Blindness**: Missing obvious changes in a visual scene.  
+- **Inattentional Blindness**: Failing to notice what you don't expect.  
+- **Time Dilation**: Why time seems to speed up as you age.  
+- **The Tetris Effect**: The brain keeps replaying patterns after repetition.  
+
+---
+
+## **Social & Emotional Misfires**  
+
+- **Nocebo Effect**: Believing something will harm you, which can cause it to happen.  
+- **Empathy Fatigue**: Compassion fatigue from overexposure to others' suffering.  
+- **Chronostasis**: The illusion of the clock's second hand freezing when you look at it.  
+- **Social Pain = Physical Pain**: Rejection activates brain regions associated with injury.  
+- **Misattribution of Arousal**: Confusing fear or other arousal with attraction.  
+
+---
+
+## **Existential Overload**  
+
+- **Mortality Salience**: Awareness of death influencing decision-making.  
+- **Apophenia**: Seeing patterns and meaning in random noise.  
+- **Cosmic Insignificance Anxiety**: Feeling overwhelmed by the universe's vastness.  
+- **Recursive Self-Awareness**: The brain observing itself observing itself.  
+
+---
 
 ---
 
