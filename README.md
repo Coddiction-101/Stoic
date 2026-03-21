@@ -418,25 +418,18 @@
 - **The Bloop: A Mystery of the Deep**: An unexplained underwater sound detected in the Pacific Ocean.
 - **Black Smokers and Alien Life**: Hydrothermal vents that may support unique ecosystems.
 - **The Great Blue Hole**: A large marine sinkhole off the coast of Belize.
+- **The 52 Hz Whale**: A whale calling on a frequency no other whale can hear — alone since 1989.
+- **SS Ourang Medan**: Ghost ship — entire crew found dead, faces frozen in terror.
+- **The Milky Seas Phenomenon**: Ocean glows bright white at night, cause unknown.
+- **Underwater Crop Circles**: Perfectly geometric patterns found on ocean floor — made by pufferfish.
+- **The Black Sea's Anoxic Layer**: Below 200m, no oxygen, no life — perfectly preserved ancient ships sit untouched.
+- **Tully Monster**: 500 million year old creature so alien, scientists still can't classify it.
+- **The Ocean's Midnight Zone**: Deeper than 1000m — eternal darkness, crushing pressure, unknown creatures.
+- **Mariana Trench Sounds Recorded in 2016**: Unidentified biological source, never explained.
+- **Zooplankton Midnight Migration**: Largest daily animal migration on earth — completely invisible to us.
+- **Ringing Rocks of the Deep**: Underwater stones that produce unexplained metallic sounds.
 
 ## Places Shouldn't Exist on The Earth
-- Sedlec Ossuary, Czech Republic (church decorated with 40,000 human bones)
-- Aokigahara Forest, Japan (suicide forest at the base of Mt. Fuji)
-- Poveglia Island, Italy (plague island turned asylum, now abandoned)
-- Centralia, Pennsylvania (town burning underground since 1962)
-- Hoia-Baciu Forest, Romania (unexplained illness, missing time, apparitions)
-- Unit 731, Harbin China (secret WWII biological warfare complex)
-- Overtoun Bridge, Scotland (dogs inexplicably leap to death)
-- The Eltanin Antenna (unexplained structure found on ocean floor, 1964)
-- Darvaza Gas Crater, Turkmenistan (burning pit of fire since 1971 — "Door to Hell")
-- Mayong Village, Assam India (known as the land of black magic)
-- Suicide Forest of Mount Fuji Underground Cave System
-- Ilha da Queimada Grande, Brazil (Snake Island — 1 snake per sq meter)
-- Leap Castle, Ireland (most haunted castle, oubliette filled with bones)
-- The Zone of Silence, Mexico (radio signals die, compasses fail, meteorites cluster)
-
-
-
 
 - Chernobyl
 - Area 51
@@ -454,6 +447,19 @@
 - *Paris Catacombs*
 - *Secret Vatican Archives*
 - Tomb of the Qin Shi Huang
+- Sedlec Ossuary, Czech Republic *(church decorated with 40,000 human bones)*
+- Aokigahara Forest, Japan *(suicide forest at the base of Mt. Fuji)*
+- Poveglia Island, Italy *(plague island turned asylum, now abandoned)*
+- Centralia, Pennsylvania *(town burning underground since 1962)*
+- Hoia-Baciu Forest, Romania *(unexplained illness, missing time, apparitions)*
+- Unit 731, Harbin China *(secret WWII biological warfare complex)*
+- Overtoun Bridge, Scotland *(dogs inexplicably leap to death)*
+- The Eltanin Antenna *(unexplained structure found on ocean floor, 1964)*
+- Darvaza Gas Crater, Turkmenistan *(burning pit of fire since 1971 — "Door to Hell")*
+- Mayong Village, Assam India *(known as the land of black magic)*
+- Ilha da Queimada Grande, Brazil *(Snake Island — 1 snake per sq meter)*
+- Leap Castle, Ireland *(most haunted castle, oubliette filled with bones)*
+- The Zone of Silence, Mexico *(radio signals die, compasses fail, meteorites cluster)*
 
 # Brain-Damage
 
@@ -808,8 +814,7 @@
 - What if you found a door in your house that wasn't there yesterday
 - What if every decision you didn't make played out in a parallel life you could watch
 
-
-###  technical stuff to research
+# technical stuff to research
 
 - Guide to GSOC 2026
 - Guide to first internship
