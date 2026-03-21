@@ -786,6 +786,8 @@
 - What if you could never tell if you were dreaming or awake
 - What if memories could be erased and sold
 - What if you discovered your entire childhood was implanted
+- What if consciousness could be copied — which one is the real you
+
 
 
 
