@@ -420,6 +420,7 @@
 - **The Great Blue Hole**: A large marine sinkhole off the coast of Belize.
 
 ## Places Shouldn't Exist on The Earth
+- Sedlec Ossuary, Czech Republic (church decorated with 40,000 human bones)
 
 - Chernobyl
 - Area 51
@@ -790,14 +791,6 @@
 - What if you stopped aging but everyone around you didn't
 - What if you found a door in your house that wasn't there yesterday
 - What if every decision you didn't make played out in a parallel life you could watch
-
-
-
-
-
-
-
-
 
 
 ###  technical stuff to research
