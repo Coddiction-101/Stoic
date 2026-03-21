@@ -2,3 +2,4 @@
 
 1. Satyamanglam Forest
 2. Kundanbagh 
+3. Fernhill hotel
