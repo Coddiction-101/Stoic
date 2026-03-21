@@ -5,3 +5,4 @@
 3. Fernhill hotel
 4. Kalpalli cemetry
 5. Bonacaud bunglow
+6. Ramoji Film City
