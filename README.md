@@ -430,6 +430,8 @@
 - The Eltanin Antenna (unexplained structure found on ocean floor, 1964)
 - Darvaza Gas Crater, Turkmenistan (burning pit of fire since 1971 — "Door to Hell")
 - Mayong Village, Assam India (known as the land of black magic)
+- Suicide Forest of Mount Fuji Underground Cave System
+
 
 
 
