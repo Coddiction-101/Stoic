@@ -781,6 +781,9 @@
 - No Oxygen for 5s
 - If the internet suddenly goes down everywhere
 - What if you woke up and no one could see or hear you
+- What if your reflection started moving on its own
+
+
 
 # technical stuff to research
 
