@@ -426,6 +426,8 @@
 - Centralia, Pennsylvania (town burning underground since 1962)
 - Hoia-Baciu Forest, Romania (unexplained illness, missing time, apparitions)
 - Unit 731, Harbin China (secret WWII biological warfare complex)
+- Overtoun Bridge, Scotland (dogs inexplicably leap to death)
+
 
 
 
