@@ -516,39 +516,7 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - **Zooplankton Midnight Migration**: Largest daily animal migration on earth — completely invisible to us.
 - **Ringing Rocks of the Deep**: Underwater stones that produce unexplained metallic sounds.
 
-## Places Shouldn't Exist on The Earth
 
-- Chernobyl
-- Area 51
-- North POle
-- Fort Knox
-- Lascaux Cave
-- Heart Island
-- Niihau Island
-- Surtsey Island
-- *Dulce Base*
-- *Northern sentimental Island*
-- *Google Data Centre*
-- *Room 39*
-- *Point Nemo*
-- *Paris Catacombs*
-- *Secret Vatican Archives*
-- Tomb of the Qin Shi Huang
-- Sedlec Ossuary, Czech Republic *(church decorated with 40,000 human bones)*
-- Aokigahara Forest, Japan *(suicide forest at the base of Mt. Fuji)*
-- Poveglia Island, Italy *(plague island turned asylum, now abandoned)*
-- Centralia, Pennsylvania *(town burning underground since 1962)*
-- Hoia-Baciu Forest, Romania *(unexplained illness, missing time, apparitions)*
-- Unit 731, Harbin China *(secret WWII biological warfare complex)*
-- Overtoun Bridge, Scotland *(dogs inexplicably leap to death)*
-- The Eltanin Antenna *(unexplained structure found on ocean floor, 1964)*
-- Darvaza Gas Crater, Turkmenistan *(burning pit of fire since 1971 — "Door to Hell")*
-- Mayong Village, Assam India *(known as the land of black magic)*
-- Ilha da Queimada Grande, Brazil *(Snake Island — 1 snake per sq meter)*
-- Leap Castle, Ireland *(most haunted castle, oubliette filled with bones)*
-- The Zone of Silence, Mexico *(radio signals die, compasses fail, meteorites cluster)*
-  
----
 - ## Places Shouldn't Exist on The Earth
 
 - **Chernobyl** - The site of a catastrophic nuclear disaster in 1986, now a ghost town with lingering radiation.
