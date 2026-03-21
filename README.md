@@ -428,7 +428,7 @@
 - Unit 731, Harbin China (secret WWII biological warfare complex)
 - Overtoun Bridge, Scotland (dogs inexplicably leap to death)
 - The Eltanin Antenna (unexplained structure found on ocean floor, 1964)
-
+- Darvaza Gas Crater, Turkmenistan (burning pit of fire since 1971 — "Door to Hell")
 
 
 
