@@ -1,4 +1,4 @@
-# **The Compendium of Life’s Paradoxes and Profound Mysteries**
+# **The Compendium of Life's Paradoxes and Profound Mysteries**
 
 
 *A structured map of reality, mind, power, and human existence*
@@ -42,7 +42,7 @@
 ### B. Limits of Understanding
 
 - Epistemic limits (Not fully comprehensible reality)
-- Gödel’s Incompleteness Theorem
+- Gödel's Incompleteness Theorem
 - Omphalos Hypothesis
 - Doomsday Argument
 - Chronocentric Illusion
@@ -138,6 +138,15 @@
 - Suicide ideation among youth
 - Identity crisis in Gen-Z & Gen-Alpha
 - Rise of nihilism, emptiness, purposelessness
+- Social Comparison Theory
+- Validation Seeking Behaviour
+- FOMO (Fear of Missing Out)
+- Online Social Anxiety
+- Self-esteem Erosion
+- Body Image Disturbance
+- Cyberbullying Psychology
+- Loneliness Paradox (Connected but Alone)
+- Emotional Desensitization
 
 ---
 
@@ -167,6 +176,14 @@
 - Cult-like behavior in fandoms
 - Psychological warfare disguised as memes
 
+### D. Risk & Safety Dimensions
+
+- Online Scam Psychology
+- Risky Viral Challenge Behaviour
+- Distracted Driving Statistics
+- Internet Addiction Disorder
+- Digital Dependency Syndrome
+
 ---
 
 ## VIII. **Technology, Media & Brain Rewiring**
@@ -181,6 +198,29 @@
 - Desensitization from over-exposure
 - Dependency on digital memory
 
+### A. Brain & Cognitive Impact
+
+- Dopamine Reward System
+- Behavioural Addiction
+- Variable Reward Mechanism
+- Cognitive Fragmentation
+- Attention Span Decline
+- Neuroplasticity (digital impact)
+- Instant Gratification Psychology
+- Executive Function Impairment
+- Digital Dementia
+- Information Overload
+
+### B. Identity, Behaviour & Society
+
+- Algorithmic Conditioning
+- Echo Chamber Effect
+- Digital Identity Construction
+- Parasocial Relationship
+- Influencer Culture Psychology
+- Polarization Dynamics
+- Cancel Culture Behaviour
+
 ---
 
 ## IX. **Existential & Metaphysical Concepts**
@@ -194,9 +234,14 @@
 - Mystical Unknowability
 - Pure Observer / Spectator Self
 - Infinitism
-- Existential crisis & “what’s the point?”
+- Existential crisis & "what's the point?"
 - Fear of death & afterlife confusion
 - Search for divine or universal truth
+- Attention Economy
+- Surveillance Capitalism
+- Technological Determinism
+- Media Ecology Theory
+- Human-Technology Co-evolution
 
 ---
 
@@ -212,7 +257,7 @@
 - Buddhism
 - Karma Yoga
 - Nietzschean Philosophy
-- Schopenhauer’s Pessimism
+- Schopenhauer's Pessimism
 
 ---
 
@@ -259,6 +304,22 @@
 - Loneliness affecting immunity
 - Aging & appearance anxiety
 
+### A. Sleep & Biological Rhythm
+
+- Blue Light Circadian Disruption
+- Melatonin Suppression
+- Sleep Procrastination
+- Revenge Bedtime Procrastination
+- Screen-Induced Insomnia
+
+### B. Physical Health & Lifestyle
+
+- Sedentary Behaviour Risk
+- Text Neck Syndrome
+- Computer Vision Syndrome
+- Screen Fatigue
+- Obesity & Inactivity Correlation
+
 ---
 
 ## XIV. **Economic & Environmental Stress**
@@ -302,12 +363,12 @@
 
 ## **Disturbing Things and Books**
 
-1. **All Quiet on the Western Front** - Erich Maria Remarque
-2. **A Little Life** - Hanya Yanagihara
-3. **Of Mice and Men** - John Steinbeck
-4. **No Longer Human** - Osamu Dazai
-5. **The Trial** - Franz Kafka
-6. **Crime and Punishment** - Fyodor Dostoevsky
+1. **All Quiet on the Western Front** - Erich Maria Remarque
+2. **A Little Life** - Hanya Yanagihara
+3. **Of Mice and Men** - John Steinbeck
+4. **No Longer Human** - Osamu Dazai
+5. **The Trial** - Franz Kafka
+6. **Crime and Punishment** - Fyodor Dostoevsky
 
 ---
 
@@ -323,8 +384,8 @@
 - **Edits Reality in Real-Time**:
 - **You see the past not the present**:
 - **Your brain rewrites memories**
-- **You don’t experience reality continuously**
-- **Your brain decides before you’re aware**
+- **You don't experience reality continuously**
+- **Your brain decides before you're aware**
 - **You live inside an simulation**
 - **Brain Plasticity**
 
@@ -341,7 +402,7 @@
 - **Practice the 10/10/10 Rule**: Consider the impact of your decisions in 10 minutes, 10 months, and 10 years.
 - **Implement the 5 Second Rule (Mel Robbins)**: Take action within 5 seconds to overcome hesitation.
 - **3-3-3 Method**: When feeling anxious, name 3 things you see, 3 sounds you hear, and 3 things you can touch.
-- **Build a ‘To Don’t’ Rule**: List things you will not do to maintain focus.
+- **Build a 'To Don't' Rule**: List things you will not do to maintain focus.
 - **Embrace Mono-Tasking (Deep Work)**: Focus on one task at a time for better productivity.
 - **Leverage the Zeigarnik Effect**: Use unfinished tasks to motivate you to complete them.
 - **The Everyday Razor**: Simplify decisions by focusing on what truly matters.
@@ -349,7 +410,7 @@
 
 ---
 
-# **Ocean Isn’t Scary**
+# **Ocean Isn't Scary**
 
 - **The Baltic Sea Anomaly**: An unexplained underwater formation.
 - **The Yonaguni Monument**: A submerged rock formation off the coast of Japan.
@@ -358,7 +419,7 @@
 - **Black Smokers and Alien Life**: Hydrothermal vents that may support unique ecosystems.
 - **The Great Blue Hole**: A large marine sinkhole off the coast of Belize.
 
-## Places Shouldn’t Exist on The Earth
+## Places Shouldn't Exist on The Earth
 
 - Chernobyl
 - Area 51
@@ -403,7 +464,7 @@
 - *Daruma-san (Bathtub)*
 - *Elevator to Hell*
 - *Airbus A380 Flying Palace*
-- *Mar’s Perseverance Rover*
+- *Mar's Perseverance Rover*
 - *NORTHDROP B-2 Spirit*
 - *USS Zumwalt Stealth Destroyer*
 - *Large Hadron Collider*
@@ -417,7 +478,7 @@
 - *Rogue planets*
 - *Oumuamua*
 - *The Bootes Void*
-- *The ‘WOW’ Single*
+- *The 'WOW' Single*
 - *FRB 121102*
 - *TIC 168789840*
 - *The Great Attracter*
@@ -433,7 +494,7 @@
 - *Mezhgorye Russia*
 - *If Earth Stop Spinning*
 - *If it rained for one year*
-- *People Born Blind Don’t know what human looks like*
+- *People Born Blind Don't know what human looks like*
 - *Over justification Effect*
 - *Ideomotor Effect*
 - *Are we living in a simulation / Is there a god?*
@@ -478,9 +539,6 @@
 - *What does it mean to be human?*
 - *Is the universe conscious?*
 - The whole universe is in peace, no one is rushing, pushing or worrying *Except Humans.*
-</aside>
-
-<aside>
 
 # Brain Damage / Science
 
@@ -496,7 +554,7 @@
 - Momentum
 - Impulse
 - Speed
-- Newton’s Laws
+- Newton's Laws
 - Gravity
 - Free fall
 - Friction
@@ -546,16 +604,16 @@
 - Electrical Charge
 - Electric Potential
 - Electric Field
-- Coulomb’s Law
+- Coulomb's Law
 - Capacitance
-- Electric Current & OHM’s Law
+- Electric Current & OHM's Law
 - Basic Circuit Analysis
 - AC - DC Electricity
 - Magnetic Field
 - Electromagnetic Induction
-- Faraday’s Law
-- Lenz’s Law
-- Maxwell’s Equations
+- Faraday's Law
+- Lenz's Law
+- Maxwell's Equations
 - Electromagnetic Waves
 - Electromagnetic Spectrum
 - Light as a Wave
@@ -707,9 +765,6 @@
 - Cause of Earthquake
 - Mechanism of Mountain Formation
 - Role of Asteroid in Earth History
-</aside>
-
-<aside>
 
 # Brain Damage / What If
 
@@ -720,16 +775,11 @@
 - Stop sleeping
 - Insects disappeared from the earth
 - Human suddenly disappeared
-- We aren’t the first advanced civilization
+- We aren't the first advanced civilization
 - Earth suddenly stop spinning
 - Born on a space station
 - No Oxygen for 5s
 - If the internet suddenly goes down everywhere
-</aside>
-
-<aside>
-
-<aside>
 
 # technical stuff to research
 
@@ -737,10 +787,6 @@
 - Guide to first internship
 - Guide to learn prog. languages 
 
-</aside>
-
 *Do not disturb yourself by imagining your whole life at once - Marcus Aurelius*
 
 When the rain stops, The umbrella becomes heavy for everyone
-
-</aside>
