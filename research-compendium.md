@@ -4,3 +4,4 @@
 2. Kundanbagh 
 3. Fernhill hotel
 4. Kalpalli cemetry
+5. Bonacaud bunglow
