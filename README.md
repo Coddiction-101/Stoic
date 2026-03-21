@@ -1,4 +1,4 @@
-# 📖 The Compendium — Root README
+# 📖 The Void
 
 > *A personal knowledge repository mapping reality, mind, power, existence, and everything in between.*
 
