@@ -1,12 +1,13 @@
 # **The Compendium of Life's Paradoxes and Profound Mysteries**
 
-
 *A structured map of reality, mind, power, and human existence*
+
+---
 
 ## I. **Core Life Paradoxes**
 
 > Contradictions that define growth, effort, and human behavior.
-> 
+
 1. Growth Paradox
 2. Effort Paradox
 3. Wisdom Paradox
@@ -24,7 +25,6 @@
 ## II. **Cosmology, Physics & Reality Theories**
 
 > Understanding the universe, time, and the nature of existence.
-> 
 
 ### A. Universe & Reality
 
@@ -52,7 +52,6 @@
 ## III. **Consciousness & Mind Theories**
 
 > Scientific, philosophical, and metaphysical explanations of awareness.
-> 
 
 ### A. Neuroscience & Cognitive Science
 
@@ -83,7 +82,7 @@
 ## IV. **Mathematical & Logical Paradoxes**
 
 > Limits of logic and formal reasoning.
-> 
+
 - Sorites Paradox
 - Collatz Conjecture
 - Bootstrap Paradox
@@ -94,7 +93,6 @@
 ## V. **Psychology, Cognition & Human Nature**
 
 > How the human mind works, breaks, and adapts.
-> 
 
 ### A. Core Human Psychology
 
@@ -117,20 +115,21 @@
 - Silent pain & hidden suffering
 - Persistent depressive disorder - PDD
 - Major depressive disorder - MDD
-- Bipolar disorder - I , II
+- Bipolar disorder - I, II
 - Social Isolation
 - De-realization
 - Possible depersonalization
 - Short dissociated Episodes
 - Sleep Deprivation effects
 - Haptic jerks
-- Post - traumatic stree disorder - PTSD
+- Post-traumatic stress disorder - PTSD
+
 ---
 
 ## VI. **Mental Health & Modern Crisis**
 
 > The psychological cost of modern life.
-> 
+
 - Depression, anxiety, chronic stress
 - Isolation vs. hyper-connectivity
 - Digital exhaustion & attention fragmentation
@@ -153,7 +152,6 @@
 ## VII. **Power, Influence & Social Manipulation**
 
 > How narratives, systems, and authority shape society.
-> 
 
 ### A. Mass Influence & Narrative Control
 
@@ -189,7 +187,7 @@
 ## VIII. **Technology, Media & Brain Rewiring**
 
 > How systems reshape attention, behavior, and identity.
-> 
+
 - Dopamine hijack (social media, gaming, content)
 - Doomscrolling & addiction loops
 - Algorithmic conditioning
@@ -226,7 +224,7 @@
 ## IX. **Existential & Metaphysical Concepts**
 
 > Meaning, nothingness, eternity, and the self.
-> 
+
 - Void Nihilism
 - Eternal Recurrence
 - Eternal Damnation
@@ -248,7 +246,7 @@
 ## X. **Major Philosophical Schools**
 
 > Frameworks shaping human thought.
-> 
+
 - Stoicism
 - Nihilism
 - Existentialism
@@ -264,7 +262,7 @@
 ## XI. **Political, Ethical & Social Philosophies**
 
 > Systems governing morality, society, and power.
-> 
+
 - Machiavellianism
 - Egoism
 - Determinism
@@ -282,7 +280,7 @@
 ## XII. **Cultural & Traditional Conditioning**
 
 > How upbringing and society shape identity.
-> 
+
 - Superstition vs. science
 - Gender roles & emotional suppression
 - Shame-based parenting
@@ -295,7 +293,7 @@
 ## XIII. **Body, Health & Inner World**
 
 > The unseen physical and emotional battlefield.
-> 
+
 - Mind-body disconnect
 - Poor sleep, diet, posture
 - Hormonal imbalance from stress
@@ -325,7 +323,7 @@
 ## XIV. **Economic & Environmental Stress**
 
 > Survival pressure in a collapsing world.
-> 
+
 - Money, rent, food insecurity
 - Collapse of job stability
 - Inflation & economic fear
@@ -338,7 +336,7 @@
 ## XV. **Ignored Yet Crucial Human Themes**
 
 > The hidden layers of being human.
-> 
+
 - Inner-child wounds
 - Subconscious beliefs shaping life
 - Shadow work
@@ -353,7 +351,7 @@
 ## XVI. **Mysteries, Anomalies & Unsolved Phenomena**
 
 > Concepts that resist explanation.
-> 
+
 - Voynich Manuscript
 - Esoteric meanings in mainstream entertainment
 - Cult psychology in mass culture
@@ -361,120 +359,224 @@
 
 ---
 
+## XVII. **Music Industry — Research Framework**
+
+> How music shapes brain, identity, culture, economy, and the future.
+
+### A. Neuroscience of Music
+
+- Music-induced dopamine release
+- Reward prediction error
+- Neural entrainment (rhythm syncing)
+- Auditory cortex processing
+- Limbic system activation
+- Default Mode Network & music
+- Music-evoked chills (frisson)
+- Neuroplasticity & music training
+- Music and memory encoding
+- Music mood regulation
+- Focus and productivity effects
+- Addiction-like listening patterns
+- Background music vs deep listening
+
+### B. Psychological & Mental Health Impact
+
+- Music therapy mechanisms
+- Catharsis theory (emotional release)
+- Mood-congruent listening
+- Rumination via sad music
+- Identity formation through music taste
+- Parasocial bonding with artists
+- Escapism through music
+- Emotional coping via sound
+- Trauma processing through music
+- Loneliness buffering
+
+### C. Digital Platforms & Algorithm Power
+
+- Streaming recommendation algorithms
+- Playlist culture psychology
+- Virality engineering
+- Listener retention optimization
+- Hook-based songwriting (short attention economy)
+- Algorithmic popularity bias
+- Data-driven music production
+- Taste shaping by algorithms
+- Independent vs label-boosted reach
+- Music discovery psychology
+
+### D. Music Business & Industry Economics
+
+- Record label structure
+- Music royalties distribution
+- 360 deals
+- Publishing rights
+- Artist branding strategy
+- Fan monetization models
+- Touring vs streaming revenue
+- Merchandising psychology
+- Why artists earn less from streaming
+- Power dynamics in contracts
+- Fame lifecycle economics
+
+### E. Cultural & Social Influence
+
+- Protest music sociology
+- Pop culture hegemony
+- Genre trend cycles
+- Globalization of sound
+- Celebrity worship psychology
+- Youth identity shaping
+- Music & political messaging
+- Music as social movement fuel
+- Subculture creation
+- Emotional mass influence
+
+### F. Lifestyle, Fame & Health Risks
+
+- Touring burnout
+- Performance anxiety
+- Sleep rhythm disruption
+- Substance abuse culture
+- Creative block neuroscience
+- Fame pressure syndrome
+- Overstimulation & crowd energy impact
+- Isolation despite popularity
+- Identity crisis in artists
+- Nervous system exhaustion
+
+### G. AI & Future of Music
+
+- AI music generation
+- Deepfake voice cloning
+- Human vs machine creativity debate
+- Algorithm-generated hits
+- Copyright crisis in AI music
+- Synthetic artists / virtual idols
+- Predictive hit-song analytics
+- Will artists become data-products?
+- Emotional authenticity vs efficiency
+
+### H. Behavioural Programming Through Music
+
+- Emotional conditioning via sound
+- Repetition & subconscious imprinting
+- Tempo influence on heart rate
+- Lyrics & belief shaping
+- Crowd synchronization psychology
+- Music increasing aggression or motivation
+- Nostalgia triggering
+- Group identity creation through sound
+
+### I. Evolutionary & Philosophical Dimensions
+
+- Evolution of musicality
+- Music as social glue
+- Sound & altered consciousness
+- Ritualistic music anthropology
+- Silence vs stimulation paradox
+- Existential expression through art
+- Why humans invented music
+- Is music a survival tool or emotional luxury
+- Can sound rewire perception of reality
+
+---
+
 ## **Disturbing Things and Books**
 
-### **Books**
-1. **All Quiet on the Western Front** - Erich Maria Remarque  
-2. **A Little Life** - Hanya Yanagihara  
-3. **Of Mice and Men** - John Steinbeck  
-4. **No Longer Human** - Osamu Dazai  
-5. **The Trial** - Franz Kafka  
-6. **Crime and Punishment** - Fyodor Dostoevsky  
-7. **The Road** - Cormac McCarthy  
-8. **Blood Meridian** - Cormac McCarthy  
-9. **1984** - George Orwell  
-10. **We Need to Talk About Kevin** - Lionel Shriver  
-11. **The Bell Jar** - Sylvia Plath  
-12. **House of Leaves** - Mark Z. Danielewski  
-13. **American Psycho** - Bret Easton Ellis  
-14. **Flowers for Algernon** - Daniel Keyes  
-15. **Johnny Got His Gun** - Dalton Trumbo  
-16. **The Painted Bird** - Jerzy Kosiński  
-17. **I Have No Mouth and I Must Scream** - Harlan Ellison  
-18. **Lolita** - Vladimir Nabokov  
+### Books
+
+1. **All Quiet on the Western Front** - Erich Maria Remarque
+2. **A Little Life** - Hanya Yanagihara
+3. **Of Mice and Men** - John Steinbeck
+4. **No Longer Human** - Osamu Dazai
+5. **The Trial** - Franz Kafka
+6. **Crime and Punishment** - Fyodor Dostoevsky
+7. **The Road** - Cormac McCarthy
+8. **Blood Meridian** - Cormac McCarthy
+9. **1984** - George Orwell
+10. **We Need to Talk About Kevin** - Lionel Shriver
+11. **The Bell Jar** - Sylvia Plath
+12. **House of Leaves** - Mark Z. Danielewski
+13. **American Psycho** - Bret Easton Ellis
+14. **Flowers for Algernon** - Daniel Keyes
+15. **Johnny Got His Gun** - Dalton Trumbo
+16. **The Painted Bird** - Jerzy Kosiński
+17. **I Have No Mouth and I Must Scream** - Harlan Ellison
+18. **Lolita** - Vladimir Nabokov
+
+### Disturbing Films
+
+1. **Requiem for a Dream** - Darren Aronofsky
+2. **Melancholia** - Lars von Trier
+3. **Come and See** - Elem Klimov
+4. **Irreversible** - Gaspar Noé
+5. **Martyrs** - Pascal Laugier
+6. **Funny Games** - Michael Haneke
+7. **Enter the Void** - Gaspar Noé
+8. **Dogtooth** - Yorgos Lanthimos
+9. **The Act of Killing** - Joshua Oppenheimer
+10. **Eraserhead** - David Lynch
+
+### Disturbing Documentaries
+
+1. **The Act of Killing** - Real perpetrators of genocide reenact their crimes
+2. **Dear Zachary** - A letter to a son about his murdered father
+3. **Earthlings** - Industrial treatment of animals
+4. **The Imposter** - A stranger convinces a family their missing child is him
+5. **Capturing the Friedmans** - A family's unraveling during abuse allegations
+6. **Three Identical Strangers** - Triplets separated at birth as a secret experiment
 
 ---
 
-### **Disturbing Films**
-1. **Requiem for a Dream** - Darren Aronofsky  
-2. **Melancholia** - Lars von Trier  
-3. **Come and See** - Elem Klimov  
-4. **Irreversible** - Gaspar Noé  
-5. **Martyrs** - Pascal Laugier  
-6. **Funny Games** - Michael Haneke  
-7. **Enter the Void** - Gaspar Noé  
-8. **Dogtooth** - Yorgos Lanthimos  
-9. **The Act of Killing** - Joshua Oppenheimer  
-10. **Eraserhead** - David Lynch  
+## **Brain Was Not Designed For**
 
----
+- **Zoochosis**: Behavioral issues in captive animals.
+- **Digital Exhaustion**: Fatigue from excessive digital engagement.
+- **Eco-Paralysis**: Inaction due to overwhelming environmental issues.
+- **Micro-Isolation**: Feeling isolated despite being connected digitally.
+- **Phantom Vibration Syndrome**: The sensation of a phone vibrating when it is not.
+- **Influencer Dysmorphia**: Distorted self-image due to social media influence.
+- **Quantum Immortality**: The hypothesis that consciousness continues in alternate realities.
+- **Edits Reality in Real-Time**
+- **You see the past not the present**
+- **Your brain rewrites memories**
+- **You don't experience reality continuously**
+- **Your brain decides before you're aware**
+- **You live inside a simulation**
+- **Brain Plasticity**
 
-### **Disturbing Documentaries**
-1. **The Act of Killing** - Real perpetrators of genocide reenact their crimes  
-2. **Dear Zachary** - A letter to a son about his murdered father  
-3. **Earthlings** - Industrial treatment of animals  
-4. **The Imposter** - A stranger convinces a family their missing child is him  
-5. **Capturing the Friedmans** - A family's unraveling during abuse allegations  
-6. **Three Identical Strangers** - Triplets separated at birth as a secret experiment  
+### Modern Overstimulation
 
----
+- **Continuous Partial Attention**: Never fully focusing on anything — always half-present.
+- **Decision Fatigue**: Too many choices gradually degrading willpower and judgment.
+- **Headline Anxiety**: Reacting emotionally to news titles without ever reading the full story.
+- **Notification Addiction**: Compulsive checking behavior driven by unpredictable micro-rewards.
+- **Information Permanence Illusion**: Believing you'll remember what you read, so you never truly absorb it.
 
----
+### Perception Glitches
 
-# **Brain Was Not Designed For**
+- **Troxler Fading**: Stare at something long enough and the surrounding detail disappears.
+- **The Rubber Hand Illusion**: Brain adopts a fake limb as its own with enough sensory cues.
+- **Change Blindness**: Missing obvious changes happening directly in front of you.
+- **Inattentional Blindness**: Missing what you don't expect — the gorilla you never saw.
+- **Time Dilation**: Why years feel shorter as you age — fewer novel experiences.
+- **The Tetris Effect**: Brain keeps replaying and hallucinating patterns after prolonged repetition.
 
-Our brains are incredible, but many of the challenges we face stem from the fact that they weren't built for the modern world. Here's a breakdown of some common cognitive and emotional issues we experience:
+### Social & Emotional Misfires
 
----
+- **Nocebo Effect**: Believing something will harm you is enough to make it happen.
+- **Empathy Fatigue**: Compassion shutting down completely from chronic overexposure to suffering.
+- **Chronostasis**: The clock hand that appears to freeze the moment you look at it.
+- **Social Pain = Physical Pain**: Rejection activates the exact same brain region as physical injury.
+- **Misattribution of Arousal**: Confusing fear or adrenaline for romantic attraction.
 
-## **Modern Overstimulation**
+### Existential Overload
 
-- **Zoochosis**: Behavioral issues in captive animals, analogous to human stress from confinement and monotony.  
-- **Digital Exhaustion**: Fatigue resulting from excessive digital engagement and information overload.  
-- **Eco-Paralysis**: Inaction caused by feeling overwhelmed by environmental issues.  
-- **Micro-Isolation**: Feeling lonely despite being constantly connected online.  
-- **Phantom Vibration Syndrome**: The sensation that your phone is vibrating when it's not.  
-- **Influencer Dysmorphia**: Distorted self-image influenced by social media portrayals.  
-- **Quantum Immortality**: The speculative idea that consciousness persists across alternate realities.  
-
-### **How your brain handles reality:**  
-- **Edits Reality in Real-Time**  
-- You see the past, not the present  
-- Your brain rewrites memories  
-- You don't experience reality continuously  
-- Your brain makes decisions before you're aware of them  
-- You may live inside a simulation  
-- Brain plasticity enables constant adaptation  
-
----
-
-## **Modern Overstimulation Symptoms**  
-
-- **Continuous Partial Attention**: Never fully focusing on anything.  
-- **Decision Fatigue**: Excessive choices depleting willpower.  
-- **Headline Anxiety**: Reacting emotionally to news titles without reading the full story.  
-- **Notification Addiction**: Compulsive checking of alerts.  
-- **Information Permanence Illusion**: Believing you'll remember everything you read.  
-
----
-
-## **Perception Glitches**  
-
-- **Troxler Fading**: Staring at a fixed point makes surrounding images fade.  
-- **Rubber Hand Illusion**: The brain adopts a fake limb as its own.  
-- **Change Blindness**: Missing obvious changes in a visual scene.  
-- **Inattentional Blindness**: Failing to notice what you don't expect.  
-- **Time Dilation**: Why time seems to speed up as you age.  
-- **The Tetris Effect**: The brain keeps replaying patterns after repetition.  
-
----
-
-## **Social & Emotional Misfires**  
-
-- **Nocebo Effect**: Believing something will harm you, which can cause it to happen.  
-- **Empathy Fatigue**: Compassion fatigue from overexposure to others' suffering.  
-- **Chronostasis**: The illusion of the clock's second hand freezing when you look at it.  
-- **Social Pain = Physical Pain**: Rejection activates brain regions associated with injury.  
-- **Misattribution of Arousal**: Confusing fear or other arousal with attraction.  
-
----
-
-## **Existential Overload**  
-
-- **Mortality Salience**: Awareness of death influencing decision-making.  
-- **Apophenia**: Seeing patterns and meaning in random noise.  
-- **Cosmic Insignificance Anxiety**: Feeling overwhelmed by the universe's vastness.  
-- **Recursive Self-Awareness**: The brain observing itself observing itself.  
+- **Mortality Salience**: Awareness of death subtly distorting every decision you make.
+- **Apophenia**: Seeing patterns, connections, and meaning in completely random noise.
+- **Cosmic Insignificance Anxiety**: Brain cannot genuinely process its own smallness in the universe.
+- **Recursive Self-Awareness**: The brain trying to observe itself observing itself — an infinite loop.
 
 ---
 
@@ -516,41 +618,41 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - **Zooplankton Midnight Migration**: Largest daily animal migration on earth — completely invisible to us.
 - **Ringing Rocks of the Deep**: Underwater stones that produce unexplained metallic sounds.
 
---- 
+---
 
-- ## Places Shouldn't Exist on The Earth
+## Places Shouldn't Exist on The Earth
 
-- **Chernobyl** - The site of a catastrophic nuclear disaster in 1986, now a ghost town with lingering radiation.
-- **Area 51** - A highly classified U.S. military base rumored to house extraterrestrial technology and experiments.
-- **North Pole** - The remote icy boundary of the Arctic, largely uninhabited and shrouded in secrecy.
-- **Fort Knox** - A fortified vault in Kentucky rumored to contain the U.S. gold reserve and other secrets.
-- **Lascaux Cave** - Prehistoric cave paintings in France, closed off to protect the ancient artwork.
-- **Heart Island** - Location of the infamous Clinton Correctional Facility in New York.
-- **Niihau Island** - Known as the "Forbidden Island," restricted access and inhabited by native residents.
-- **Surtsey Island** - A volcanic island off Iceland formed in 1963, one of the newest in the world.
-- *Dulce Base* - Alleged underground facility in New Mexico rumored to house extraterrestrial experiments.
-- *Northern Sentimental Island* - An obscure, mysterious island with little known or documented activity.
-- *Google Data Centre* - Secretive data centers rumored to contain more than just servers.
-- *Room 39* - A North Korean secret organization involved in illicit activities.
-- *Point Nemo* - The oceanic pole of inaccessibility, the furthest point from land on Earth.
-- *Paris Catacombs* - An underground ossuary with tunnels holding the remains of millions.
-- *Secret Vatican Archives* - A hidden library believed to contain ancient and forbidden knowledge.
-- **Tomb of the Qin Shi Huang** - The burial site of China's first emperor, guarded by thousands of terracotta soldiers.
-- **Sedlec Ossuary, Czech Republic** - A chapel decorated with the bones of approximately 40,000 people.
-- **Aokigahara Forest, Japan** - Known as the "Suicide Forest" at the base of Mt. Fuji, infamous for its dark reputation.
-- **Poveglia Island, Italy** - An abandoned island once a plague quarantine station and asylum.
-- **Centralia, Pennsylvania** - A town with an underground coal fire burning since 1962, causing ongoing destruction.
-- **Hoia-Baciu Forest, Romania** - Known for unexplained phenomena, missing time, and ghost sightings.
-- **Unit 731, Harbin China** - A secret WWII biological warfare complex involved in horrific experiments.
-- **Overtoun Bridge, Scotland** - A bridge where inexplicably, several dogs have leapt to their deaths.
-- **The Eltanin Antenna** - An unexplained structure discovered on the ocean floor in 1964, speculated to be extraterrestrial.
-- **Darvaza Gas Crater, Turkmenistan** - The "Door to Hell," a burning crater of natural gas since 1971.
-- **Mayong Village, India** - Known as the "Land of Black Magic" with a history of mysticism and dark arts.
-- **Ilha da Queimada Grande, Brazil** - The deadly "Snake Island," home to thousands of venomous snakes.
-- **Leap Castle, Ireland** - One of the most haunted castles with a dark history and a bone-filled oubliette.
-- **The Zone of Silence, Mexico** - An area where radio signals fail, meteorites land, and strange phenomena occur.
+- Chernobyl
+- Area 51
+- North Pole
+- Fort Knox
+- Lascaux Cave
+- Heart Island
+- Niihau Island
+- Surtsey Island
+- *Dulce Base*
+- *Northern Sentimental Island*
+- *Google Data Centre*
+- *Room 39*
+- *Point Nemo*
+- *Paris Catacombs*
+- *Secret Vatican Archives*
+- Tomb of the Qin Shi Huang
+- **Sedlec Ossuary, Czech Republic** — Church decorated with 40,000 human bones.
+- **Aokigahara Forest, Japan** — Suicide forest at the base of Mt. Fuji.
+- **Poveglia Island, Italy** — Plague island turned asylum, now abandoned.
+- **Centralia, Pennsylvania** — Town burning underground since 1962.
+- **Hoia-Baciu Forest, Romania** — Unexplained illness, missing time, apparitions.
+- **Unit 731, Harbin China** — Secret WWII biological warfare complex.
+- **Overtoun Bridge, Scotland** — Dogs inexplicably leap to death.
+- **The Eltanin Antenna** — Unexplained structure found on ocean floor, 1964.
+- **Darvaza Gas Crater, Turkmenistan** — Burning pit of fire since 1971 — "Door to Hell."
+- **Mayong Village, Assam India** — Known as the land of black magic.
+- **Ilha da Queimada Grande, Brazil** — Snake Island — 1 snake per sq meter.
+- **Leap Castle, Ireland** — Most haunted castle, oubliette filled with bones.
+- **The Zone of Silence, Mexico** — Radio signals die, compasses fail, meteorites cluster.
 
-- --
+---
 
 # Brain-Damage
 
@@ -574,42 +676,42 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - *Ouija Board*
 - *Charlie Chaplin*
 - *Staircase Ritual*
-- *Three kings*
+- *Three Kings*
 - *Daruma-san (Bathtub)*
 - *Elevator to Hell*
 - *Airbus A380 Flying Palace*
-- *Mar's Perseverance Rover*
-- *NORTHDROP B-2 Spirit*
+- *Mars Perseverance Rover*
+- *NORTHROP B-2 Spirit*
 - *USS Zumwalt Stealth Destroyer*
 - *Large Hadron Collider*
 - *Columbia-Class Submarine*
-- *James Web Space Telescope*
-- *SpaceX Start Link Satellite Constellation*
+- *James Webb Space Telescope*
+- *SpaceX Starlink Satellite Constellation*
 - *Gerald R. Ford-Class Aircraft Carrier*
 - *International Space Station*
 - *The Dark Forest Theory*
-- *Quantum telepathy*
-- *Rogue planets*
+- *Quantum Telepathy*
+- *Rogue Planets*
 - *Oumuamua*
-- *The Bootes Void*
-- *The 'WOW' Single*
+- *The Boötes Void*
+- *The 'WOW' Signal*
 - *FRB 121102*
 - *TIC 168789840*
-- *The Great Attracter*
+- *The Great Attractor*
 - *TON 618*
-- *Browser hijacking*
+- *Browser Hijacking*
 - *Wick Effects*
 - *Spontaneous Human Combustion*
-- *The egg theory*
+- *The Egg Theory*
 - *Blanets*
 - *Doomsday Vault Norway*
 - *Metro 2 Russia*
 - *Jiangsu Museum*
 - *Mezhgorye Russia*
-- *If Earth Stop Spinning*
+- *If Earth Stopped Spinning*
 - *If it rained for one year*
-- *People Born Blind Don't know what human looks like*
-- *Over justification Effect*
+- *People Born Blind Don't Know What Humans Look Like*
+- *Overjustification Effect*
 - *Ideomotor Effect*
 - *Are we living in a simulation / Is there a god?*
 - *What is life?*
@@ -617,7 +719,7 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - *Where does the mind begin?*
 - *Are you the same person you were yesterday?*
 - *What is time?*
-- *What is the meaning of the life?*
+- *What is the meaning of life?*
 - *What makes something meaningful?*
 - *Is happiness the purpose of life?*
 - *What is good?*
@@ -630,13 +732,13 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - *What is Death?*
 - *What makes a relationship real?*
 - *Is loneliness part of being human?*
-- *Can love exists  without attachment?*
+- *Can love exist without attachment?*
 - *Is there life after death?*
-- *Can death be meaningful*
+- *Can death be meaningful?*
 - *What does it mean to die?*
 - *Is it possible to live forever?*
 - *Why do we fear death?*
-- *Is death the end of a return?*
+- *Is death the end or a return?*
 - *Is the present real?*
 - *Why do we remember the past not the future?*
 - *What is truth?*
@@ -648,11 +750,13 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - *What is freedom?*
 - *Why do we dream?*
 - *What is hope?*
-- *Are we progressing a species?*
+- *Are we progressing as a species?*
 - *What is peace?*
 - *What does it mean to be human?*
 - *Is the universe conscious?*
-- The whole universe is in peace, no one is rushing, pushing or worrying *Except Humans.*
+- The whole universe is in peace, no one is rushing, pushing or worrying — *Except Humans.*
+
+---
 
 # Brain Damage / Science
 
@@ -692,7 +796,7 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Simple Machine
 - Mechanical Advantages
 - Oscillations
-- Simple Hormonic Motion
+- Simple Harmonic Motion
 - Wave Concept
 - Frequency
 - Period
@@ -706,10 +810,10 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Viscosity
 - Temperature
 - Heat
-- Zeroth law of Thermodynamics
-- First law of Thermodynamics
-- Second law of Thermodynamics
-- Third law of Thermodynamics
+- Zeroth Law of Thermodynamics
+- First Law of Thermodynamics
+- Second Law of Thermodynamics
+- Third Law of Thermodynamics
 - Ideal Gas Law
 - Kinetic Theory of Gases
 - Phase Transitions
@@ -736,12 +840,12 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Diffraction
 - Interference
 - Field Concepts
-- Blackbody radiations
+- Blackbody Radiation
 - Atomic Structure
 - Photon Concepts
 - Photoelectric Effects
 - Dimensional Analysis
-- Scaling laws & Similarity
+- Scaling Laws & Similarity
 - Nonlinear Dynamics
 - Chaos Theory
 - Special Relativity
@@ -757,7 +861,7 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - The Arrow of Time
 - Matter–Antimatter Asymmetry
 - Quantum Tunneling
-- Oh My God Particle
+- Oh-My-God Particle
 - White Holes
 - Dark Matter & Dark Energy
 - Nature of Dark Flow
@@ -778,12 +882,11 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Neutron Lifetime Discrepancy
 - Neutrino Oscillations & Anomalies
 - Proton Decay
-- Cosmic Lithium Decay
+- Cosmic Lithium Problem
 - Heat Death of the Universe
 - Theory of Evolution
 - Heliocentrism
 - String Theory
-- Multiverse Theory
 - Holographic Universe
 - Quantum Immortality
 - Cyclic Universe
@@ -820,8 +923,8 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Effectiveness of Alternative Medicines
 - Origin of Language
 - Anthropocene Epoch
-- Future of Earth Magnetic Field
-- Role of Asteroid in Mass Extinction
+- Future of Earth's Magnetic Field
+- Role of Asteroids in Mass Extinction
 - Mechanism of Climate Change
 - Existence of Exoplanet Habitability
 - Nature of Pulsars
@@ -830,7 +933,7 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Mechanism of Pain Perception
 - Placebo Effect
 - Localization of Brain Function
-- Neurotransmitter In Mental Disorders
+- Neurotransmitters in Mental Disorders
 - Memory Formation
 - Role of Genetics vs Environment
 - Culture Shaping Behavior
@@ -846,18 +949,18 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Punctuated Equilibrium
 - Role of Sexual Selection
 - Classification of Virus
-- Role of Epigenetic
+- Role of Epigenetics
 - Nature of Vacuum
 - Arrow of Time
 - Cosmological Multiverse
-- Plate Tectonic
+- Plate Tectonics
 - Origin of the Moon
 - Mechanism of Photosynthesis
-- Quantum Effects of Chemistry
+- Quantum Effects in Chemistry
 - Nature of Chemical Bonding
-- Existence of Blackhole
+- Existence of Black Holes
 - Kuiper Belt and Oort Cloud
-- Nature of Gamma Ray Burst
+- Nature of Gamma Ray Bursts
 - Dark Matter Halos
 - Interstellar Medium
 - Mechanism of Star Formation
@@ -871,14 +974,16 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Concept of Aromaticity
 - Nature of Chemical Bond in Molecules
 - Mechanism of Atmospheric Chemistry
-- Quasicrystal
+- Quasicrystals
 - Molecular Machines
 - Role of Volcanism in Climate
 - Future of Ice Sheets
 - Supercontinent
-- Cause of Earthquake
+- Cause of Earthquakes
 - Mechanism of Mountain Formation
-- Role of Asteroid in Earth History
+- Role of Asteroids in Earth History
+
+---
 
 # Brain Damage / What If
 
@@ -888,12 +993,12 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - Sun suddenly disappeared
 - Stop sleeping
 - Insects disappeared from the earth
-- Human suddenly disappeared
+- Humans suddenly disappeared
 - We aren't the first advanced civilization
-- Earth suddenly stop spinning
+- Earth suddenly stopped spinning
 - Born on a space station
-- No Oxygen for 5s
-- If the internet suddenly goes down everywhere
+- No Oxygen for 5 seconds
+- If the internet suddenly went down everywhere
 - What if you woke up and no one could see or hear you
 - What if your reflection started moving on its own
 - What if everyone suddenly forgot the last 24 hours except you
@@ -905,12 +1010,16 @@ Our brains are incredible, but many of the challenges we face stem from the fact
 - What if you found a door in your house that wasn't there yesterday
 - What if every decision you didn't make played out in a parallel life you could watch
 
-# technical stuff to research
+---
 
-- Guide to GSOC 2026
+# Technical Stuff to Research
+
+- Guide to GSoC 2026
 - Guide to first internship
-- Guide to learn prog. languages 
+- Guide to learning programming languages
 
-*Do not disturb yourself by imagining your whole life at once - Marcus Aurelius*
+---
 
-When the rain stops, The umbrella becomes heavy for everyone
+*Do not disturb yourself by imagining your whole life at once — Marcus Aurelius*
+
+When the rain stops, the umbrella becomes heavy for everyone.
