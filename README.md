@@ -423,6 +423,8 @@
 - Sedlec Ossuary, Czech Republic (church decorated with 40,000 human bones)
 - Aokigahara Forest, Japan (suicide forest at the base of Mt. Fuji)
 - Poveglia Island, Italy (plague island turned asylum, now abandoned)
+- Centralia, Pennsylvania (town burning underground since 1962)
+
 
 
 - Chernobyl
