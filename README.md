@@ -782,10 +782,12 @@
 - If the internet suddenly goes down everywhere
 - What if you woke up and no one could see or hear you
 - What if your reflection started moving on its own
+- What if everyone suddenly forgot the last 24 hours except you
 
 
 
-# technical stuff to research
+
+###  technical stuff to research
 
 - Guide to GSOC 2026
 - Guide to first internship
