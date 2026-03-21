@@ -372,22 +372,6 @@
 
 ---
 
-## **Brain Was Not Designed For**
-
-- **Zoochosis**: Behavioral issues in captive animals.
-- **Digital Exhaustion**: Fatigue from excessive digital engagement.
-- **Eco-Paralysis**: Inaction due to overwhelming environmental issues.
-- **Micro-Isolation**: Feeling isolated despite being connected digitally.
-- **Phantom Vibration Syndrome**: The sensation of a phone vibrating when it is not.
-- **Influencer Dysmorphia**: Distorted self-image due to social media influence.
-- **Quantum Immortality**: The hypothesis that consciousness continues in alternate realities.
-- **Edits Reality in Real-Time**:
-- **You see the past not the present**:
-- **Your brain rewrites memories**
-- **You don't experience reality continuously**
-- **Your brain decides before you're aware**
-- **You live inside an simulation**
-- **Brain Plasticity**
 
 ---
 
