@@ -433,6 +433,8 @@
 - Suicide Forest of Mount Fuji Underground Cave System
 - Ilha da Queimada Grande, Brazil (Snake Island — 1 snake per sq meter)
 - Leap Castle, Ireland (most haunted castle, oubliette filled with bones)
+- The Zone of Silence, Mexico (radio signals die, compasses fail, meteorites cluster)
+
 
 
 
