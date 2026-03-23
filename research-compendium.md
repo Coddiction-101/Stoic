@@ -16,3 +16,4 @@
 
 concepts every intelligent man should know. 
 - Psychology
+- physics
