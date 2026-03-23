@@ -13,3 +13,6 @@
 9. Silent Valley Forest
 10. De Monte Colony
 11. Doomsday planning
+
+concepts every intelligent man should know. 
+- Psychology
