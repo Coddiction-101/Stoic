@@ -19,3 +19,4 @@ concepts every intelligent man should know.
 - physics
 - Philosophy 
 - culture & ideas
+- strategy and power
