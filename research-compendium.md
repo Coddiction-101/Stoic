@@ -18,3 +18,4 @@ concepts every intelligent man should know.
 - Psychology
 - physics
 - Philosophy 
+- culture & ideas
