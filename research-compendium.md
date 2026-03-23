@@ -15,8 +15,8 @@
 11. Doomsday planning
 
 concepts every intelligent man should know. 
-- Psychology
+- psychology
 - physics
-- Philosophy 
+- philosophy 
 - culture & ideas
 - strategy and power
