@@ -25,3 +25,5 @@
 - Seveso Disaster
 - Three mile island disaster
 - Ecocide in  vietname
+- Kuwaiti oil fires
+- 
