@@ -48,3 +48,4 @@
 - The Iranian Revolution
 - The Scientic Revolution
 - The Chinese Communist Revolution
+- The Haitian Revolution
