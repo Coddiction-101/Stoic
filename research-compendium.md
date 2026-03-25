@@ -50,3 +50,4 @@
 - The Chinese Communist Revolution
 - The Haitian Revolution
 - The Russian Revolution
+- The American Revolution
