@@ -31,4 +31,4 @@
 - Deepwater horizon water spill
 - Aral sea disaster
 - Bhopal gas tradegy
-- 
+- Chernobyl disaster
