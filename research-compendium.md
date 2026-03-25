@@ -62,3 +62,5 @@
 - The singing ice self
 - Wilkes Land Gravity Anomaly
 - Mount Erebus Lava Lake
+- Lake vostok
+- The Giant Polynya
