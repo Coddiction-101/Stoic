@@ -26,4 +26,4 @@
 - Three mile island disaster
 - Ecocide in  vietname
 - Kuwaiti oil fires
-- 
+- Great smog of london
