@@ -30,3 +30,5 @@
 - Exxon valdez oil spill
 - Deepwater horizon water spill
 - Aral sea disaster
+- Bhopal gas tradegy
+- 
