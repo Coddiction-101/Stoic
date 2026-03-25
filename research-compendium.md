@@ -65,3 +65,6 @@
 - Lake vostok
 - The Giant Polynya
 - Blood Falls
+- Metro 2 Russia
+
+- North Brother Island
