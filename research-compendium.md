@@ -22,3 +22,4 @@
 - strategy and power
 
 ## Human Made Mistakes
+- Seveso Disaster
