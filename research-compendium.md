@@ -21,7 +21,7 @@
 - culture & ideas
 - strategy and power
 
-## Human Made Mistakes
+### Human Made Mistakes
 - Seveso Disaster
 - Three mile island disaster
 - Ecocide in  vietname
