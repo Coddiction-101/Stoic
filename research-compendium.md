@@ -51,4 +51,5 @@
 - The Haitian Revolution
 - The Russian Revolution
 - The American Revolution
+- The Industrial Revolution
 - The French Revolution
