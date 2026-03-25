@@ -32,3 +32,10 @@
 - Aral sea disaster
 - Bhopal gas tradegy
 - Chernobyl disaster
+
+### Space
+- The nature of time
+- Fast Radio Burst (FRBs)
+- The Information paradox of Black Hole
+- Matter - Antimatter asymmetry
+-  
