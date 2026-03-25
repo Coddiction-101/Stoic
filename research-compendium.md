@@ -57,3 +57,5 @@
 ### Ocean Mysteries
 - Unidentified Shipwrecks
 - Brinicles
+- Antartica Pyramid
+- Prehistoric Hidden Landscape
