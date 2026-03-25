@@ -64,3 +64,4 @@
 - Mount Erebus Lava Lake
 - Lake vostok
 - The Giant Polynya
+- Blood Falls
