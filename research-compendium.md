@@ -20,3 +20,5 @@
 - philosophy 
 - culture & ideas
 - strategy and power
+
+## Human Made Mistakes
