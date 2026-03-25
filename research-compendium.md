@@ -72,3 +72,5 @@
 - Ise Grand Shrine
 - North Brother Island
 - Lascaux Caves
+- Global seed vault
+- The tomb of Qin Shi Huang
