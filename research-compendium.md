@@ -47,3 +47,4 @@
 - The Maxican Revolution
 - The Iranian Revolution
 - The Scientic Revolution
+- The Chinese Communist Revolution
