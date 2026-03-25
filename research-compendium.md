@@ -49,3 +49,4 @@
 - The Scientic Revolution
 - The Chinese Communist Revolution
 - The Haitian Revolution
+- The Russian Revolution
