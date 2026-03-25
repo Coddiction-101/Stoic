@@ -61,3 +61,4 @@
 - Prehistoric Hidden Landscape
 - The singing ice self
 - Wilkes Land Gravity Anomaly
+- Mount Erebus Lava Lake
