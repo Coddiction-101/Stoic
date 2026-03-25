@@ -59,3 +59,5 @@
 - Brinicles
 - Antartica Pyramid
 - Prehistoric Hidden Landscape
+- The singing ice self
+- Wilkes Land Gravity Anomaly
