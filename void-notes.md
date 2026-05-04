@@ -47,6 +47,16 @@
 - Doomsday Argument
 - Chronocentric Illusion
 
+### C. Deep Space Mysteries
+
+- The Nature of Time
+- Fast Radio Bursts (FRBs)
+- The Information Paradox of Black Holes
+- Matter-Antimatter Asymmetry
+- The Big Bang Cause
+- The Fate of the Universe
+- The Origin of Black Holes
+
 ---
 
 ## III. **Consciousness & Mind Theories**
@@ -123,6 +133,47 @@
 - Sleep Deprivation effects
 - Haptic jerks
 - Post-traumatic stress disorder - PTSD
+
+### C. Disorders by Cortisol Level
+
+<details>
+<summary>High Cortisol Disorders</summary>
+
+- Borderline Personality Disorder
+- Insomnia
+- Phobias
+- PTSD
+- Obsessive-Compulsive Disorder
+- Social Anxiety
+- Panic Disorders
+- Generalized Anxiety Disorder
+</details>
+
+<details>
+<summary>Mid Cortisol Disorders</summary>
+
+- ADHD
+- Schizophrenia
+- Bipolar Disorder
+- Schizotypal Personality Disorder
+- Histrionic Personality Disorder
+- Gaming Disorder
+- Avoidant Personality Disorder
+- Internet Addiction
+</details>
+
+<details>
+<summary>Low Cortisol Disorders</summary>
+
+- Schizoid Personality Disorder
+- Narcissistic Personality Disorder
+- Psychopathy
+- Machiavellianism
+- Sociopathy
+- Autism Spectrum Disorder
+- Depersonalization Disorder
+- Apathy Disorder
+</details>
 
 ---
 
@@ -331,6 +382,36 @@
 - Pollution affecting mental health
 - Migration & displacement stress
 
+### A. Human Made Environmental Disasters
+
+- Seveso Disaster
+- Three Mile Island Disaster
+- Ecocide in Vietnam
+- Kuwaiti Oil Fires
+- Great Smog of London
+- Exxon Valdez Oil Spill
+- Deepwater Horizon Oil Spill
+- Aral Sea Disaster
+- Bhopal Gas Tragedy
+- Chernobyl Disaster
+
+---
+
+## XIV-B. **Revolution & Evolution of History**
+
+> The turning points that rewired civilization.
+
+- Neolithic Revolution
+- The Mexican Revolution
+- The Iranian Revolution
+- The Scientific Revolution
+- The Chinese Communist Revolution
+- The Haitian Revolution
+- The Russian Revolution
+- The American Revolution
+- The Industrial Revolution
+- The French Revolution
+
 ---
 
 ## XV. **Ignored Yet Crucial Human Themes**
@@ -531,52 +612,52 @@
 
 ## **Brain Was Not Designed For**
 
-- **Zoochosis**: Behavioral issues in captive animals caused by unnatural living conditions.
-- **Digital Exhaustion**: Fatigue resulting from excessive engagement with digital devices and media.
-- **Eco-Paralysis**: Inaction or helplessness due to overwhelming environmental problems.
-- **Micro-Isolation**: Feeling isolated despite constant digital connection and social media presence.
-- **Phantom Vibration Syndrome**: The false sensation that your phone is vibrating when it isn't.
-- **Influencer Dysmorphia**: Distorted self-image influenced by social media standards and filters.
-- **Quantum Immortality**: The hypothesis that consciousness persists in alternate realities after death.
-- **Edits Reality in Real-Time**: The brain's ability to modify perceptions and interpretations instantly.
-- **You see the past not the present**: The brain reconstructs memories, often creating a delayed perception.
-- **Your brain rewrites memories**: Memories are malleable and can be altered over time.
-- **You don't experience reality continuously**: Perception is intermittent, with gaps and jumps.
-- **Your brain decides before you're aware**: Many decisions are made subconsciously before conscious awareness.
-- **You live inside a simulation**: The theory that reality might be an elaborate computer simulation.
-- **Brain Plasticity**: The brain's ability to reorganize itself by forming new neural connections.
+- **Zoochosis**: Behavioral issues in captive animals.
+- **Digital Exhaustion**: Fatigue from excessive digital engagement.
+- **Eco-Paralysis**: Inaction due to overwhelming environmental issues.
+- **Micro-Isolation**: Feeling isolated despite being connected digitally.
+- **Phantom Vibration Syndrome**: The sensation of a phone vibrating when it is not.
+- **Influencer Dysmorphia**: Distorted self-image due to social media influence.
+- **Quantum Immortality**: The hypothesis that consciousness continues in alternate realities.
+- **Edits Reality in Real-Time**
+- **You see the past not the present**
+- **Your brain rewrites memories**
+- **You don't experience reality continuously**
+- **Your brain decides before you're aware**
+- **You live inside a simulation**
+- **Brain Plasticity**
 
 ### Modern Overstimulation
 
-- **Continuous Partial Attention**: Never fully concentrating on one thing, always half-focused on multiple stimuli.
-- **Decision Fatigue**: The deterioration of decision-making ability after making many choices.
-- **Headline Anxiety**: Emotional reactions triggered by news headlines without full context.
-- **Notification Addiction**: Compulsive checking of notifications driven by unpredictable rewards.
-- **Information Permanence Illusion**: Belief that once information is read, it is permanently retained.
+- **Continuous Partial Attention**: Never fully focusing on anything — always half-present.
+- **Decision Fatigue**: Too many choices gradually degrading willpower and judgment.
+- **Headline Anxiety**: Reacting emotionally to news titles without ever reading the full story.
+- **Notification Addiction**: Compulsive checking behavior driven by unpredictable micro-rewards.
+- **Information Permanence Illusion**: Believing you'll remember what you read, so you never truly absorb it.
 
 ### Perception Glitches
 
-- **Troxler Fading**: The fading of peripheral details when staring at a fixed point.
-- **The Rubber Hand Illusion**: The brain adopts a fake limb as its own through sensory cues.
-- **Change Blindness**: Failing to notice large changes in a visual scene.
-- **Inattentional Blindness**: Missing unexpected objects or events when attention is elsewhere.
-- **Time Dilation**: The sensation that time speeds up or slows down, often with age or during intense experiences.
-- **The Tetris Effect**: Replaying visual patterns in your mind after prolonged exposure or activity.
+- **Troxler Fading**: Stare at something long enough and the surrounding detail disappears.
+- **The Rubber Hand Illusion**: Brain adopts a fake limb as its own with enough sensory cues.
+- **Change Blindness**: Missing obvious changes happening directly in front of you.
+- **Inattentional Blindness**: Missing what you don't expect — the gorilla you never saw.
+- **Time Dilation**: Why years feel shorter as you age — fewer novel experiences.
+- **The Tetris Effect**: Brain keeps replaying and hallucinating patterns after prolonged repetition.
 
 ### Social & Emotional Misfires
 
-- **Nocebo Effect**: Negative expectations cause real harm or symptoms.
-- **Empathy Fatigue**: Emotional exhaustion from constant exposure to others’ suffering.
-- **Chronostasis**: The illusion that the first moment after a gaze or sound is longer than normal.
-- **Social Pain = Physical Pain**: Social rejection activates brain regions involved in physical pain.
-- **Misattribution of Arousal**: Confusing physiological arousal from fear or adrenaline as romantic attraction.
+- **Nocebo Effect**: Believing something will harm you is enough to make it happen.
+- **Empathy Fatigue**: Compassion shutting down completely from chronic overexposure to suffering.
+- **Chronostasis**: The clock hand that appears to freeze the moment you look at it.
+- **Social Pain = Physical Pain**: Rejection activates the exact same brain region as physical injury.
+- **Misattribution of Arousal**: Confusing fear or adrenaline for romantic attraction.
 
 ### Existential Overload
 
-- **Mortality Salience**: Awareness of death influences decisions and perceptions unconsciously.
-- **Apophenia**: Seeing meaningful patterns in random data or noise.
-- **Cosmic Insignificance Anxiety**: Anxiety stemming from realizing human smallness in the universe.
-- **Recursive Self-Awareness**: The endless loop of the brain observing itself observing itself.
+- **Mortality Salience**: Awareness of death subtly distorting every decision you make.
+- **Apophenia**: Seeing patterns, connections, and meaning in completely random noise.
+- **Cosmic Insignificance Anxiety**: Brain cannot genuinely process its own smallness in the universe.
+- **Recursive Self-Awareness**: The brain trying to observe itself observing itself — an infinite loop.
 
 ---
 
@@ -617,40 +698,68 @@
 - **Mariana Trench Sounds Recorded in 2016**: Unidentified biological source, never explained.
 - **Zooplankton Midnight Migration**: Largest daily animal migration on earth — completely invisible to us.
 - **Ringing Rocks of the Deep**: Underwater stones that produce unexplained metallic sounds.
+- **Unidentified Shipwrecks**: Thousands of wrecks on the ocean floor with no known origin or record.
+- **Brinicles**: Underwater icicles of brine that freeze everything they touch on contact.
+- **Antarctica Pyramid**: Pyramid-shaped mountain structures in Antarctica raising questions about ancient civilizations.
+- **Prehistoric Hidden Landscape**: Entire drowned landscapes beneath the ocean, once inhabited by humans.
+- **The Singing Ice Shelf**: Antarctica's Ross Ice Shelf hums continuously due to wind — discovered only in 2018.
+- **Wilkes Land Gravity Anomaly**: A massive unexplained gravitational anomaly buried under Antarctica's ice.
+- **Mount Erebus Lava Lake**: One of only a few persistent lava lakes on Earth, sitting inside an Antarctic volcano.
+- **Lake Vostok**: A liquid freshwater lake buried under 4km of Antarctic ice, completely isolated for millions of years.
+- **The Giant Polynya**: A massive hole that inexplicably opens in the Antarctic sea ice every few years.
+- **Blood Falls**: A blood-red waterfall in Antarctica caused by iron-rich, ancient saltwater seeping through the ice.
 
 ---
 
 ## Places Shouldn't Exist on The Earth
 
-- **Chernobyl** - The site of a catastrophic nuclear disaster in 1986, now a ghost town with lingering radiation.
-- **Area 51** - A highly classified U.S. military base rumored to house extraterrestrial technology and experiments.
-- **North Pole** - The remote icy boundary of the Arctic, largely uninhabited and shrouded in secrecy.
-- **Fort Knox** - A fortified vault in Kentucky rumored to contain the U.S. gold reserve and other secrets.
-- **Lascaux Cave** - Prehistoric cave paintings in France, closed off to protect the ancient artwork.
-- **Heart Island** - Location of the infamous Clinton Correctional Facility in New York.
-- **Niihau Island** - Known as the "Forbidden Island," restricted access and inhabited by native residents.
-- **Surtsey Island** - A volcanic island off Iceland formed in 1963, one of the newest in the world.
-- *Dulce Base* - Alleged underground facility in New Mexico rumored to house extraterrestrial experiments.
-- *Northern Sentimental Island* - An obscure, mysterious island with little known or documented activity.
-- *Google Data Centre* - Secretive data centers rumored to contain more than just servers.
-- *Room 39* - A North Korean secret organization involved in illicit activities.
-- *Point Nemo* - The oceanic pole of inaccessibility, the furthest point from land on Earth.
-- *Paris Catacombs* - An underground ossuary with tunnels holding the remains of millions.
-- *Secret Vatican Archives* - A hidden library believed to contain ancient and forbidden knowledge.
-- **Tomb of the Qin Shi Huang** - The burial site of China's first emperor, guarded by thousands of terracotta soldiers.
-- **Sedlec Ossuary, Czech Republic** - A chapel decorated with the bones of approximately 40,000 people.
-- **Aokigahara Forest, Japan** - Known as the "Suicide Forest" at the base of Mt. Fuji, infamous for its dark reputation.
-- **Poveglia Island, Italy** - An abandoned island once a plague quarantine station and asylum.
-- **Centralia, Pennsylvania** - A town with an underground coal fire burning since 1962, causing ongoing destruction.
-- **Hoia-Baciu Forest, Romania** - Known for unexplained phenomena, missing time, and ghost sightings.
-- **Unit 731, Harbin China** - A secret WWII biological warfare complex involved in horrific experiments.
-- **Overtoun Bridge, Scotland** - A bridge where inexplicably, several dogs have leapt to their deaths.
-- **The Eltanin Antenna** - An unexplained structure discovered on the ocean floor in 1964, speculated to be extraterrestrial.
-- **Darvaza Gas Crater, Turkmenistan** - The "Door to Hell," a burning crater of natural gas since 1971.
-- **Mayong Village, India** - Known as the "Land of Black Magic" with a history of mysticism and dark arts.
-- **Ilha da Queimada Grande, Brazil** - The deadly "Snake Island," home to thousands of venomous snakes.
-- **Leap Castle, Ireland** - One of the most haunted castles with a dark history and a bone-filled oubliette.
-- **The Zone of Silence, Mexico** - An area where radio signals fail, meteorites land, and strange phenomena occur.
+- Chernobyl
+- Area 51
+- North Pole
+- Fort Knox
+- Lascaux Cave
+- Heart Island
+- Niihau Island
+- Surtsey Island
+- *Dulce Base*
+- *Northern Sentimental Island*
+- *Google Data Centre*
+- *Room 39*
+- *Point Nemo*
+- *Paris Catacombs*
+- *Secret Vatican Archives*
+- Tomb of the Qin Shi Huang
+- **Sedlec Ossuary, Czech Republic** — Church decorated with 40,000 human bones.
+- **Aokigahara Forest, Japan** — Suicide forest at the base of Mt. Fuji.
+- **Poveglia Island, Italy** — Plague island turned asylum, now abandoned.
+- **Centralia, Pennsylvania** — Town burning underground since 1962.
+- **Hoia-Baciu Forest, Romania** — Unexplained illness, missing time, apparitions.
+- **Unit 731, Harbin China** — Secret WWII biological warfare complex.
+- **Overtoun Bridge, Scotland** — Dogs inexplicably leap to death.
+- **The Eltanin Antenna** — Unexplained structure found on ocean floor, 1964.
+- **Darvaza Gas Crater, Turkmenistan** — Burning pit of fire since 1971 — "Door to Hell."
+- **Mayong Village, Assam India** — Known as the land of black magic.
+- **Ilha da Queimada Grande, Brazil** — Snake Island — 1 snake per sq meter.
+- **Leap Castle, Ireland** — Most haunted castle, oubliette filled with bones.
+- **The Zone of Silence, Mexico** — Radio signals die, compasses fail, meteorites cluster.
+- **Metro 2, Russia** — Secret underground railway beneath Moscow, existence never officially confirmed.
+- **Ise Grand Shrine, Japan** — Japan's most sacred site, rebuilt every 20 years; inner sanctum never photographed.
+- **North Brother Island, New York** — Abandoned island hospital in the East River, completely off-limits.
+- **Global Seed Vault, Norway** — The world's backup for all plant life, buried deep in Arctic permafrost.
+
+### Mysterious Places of India
+
+- Satyamangalam Forest
+- Kundanbagh, Hyderabad
+- Fernhill Hotel, Ooty
+- Kalpalli Cemetery, Bangalore
+- Bonacaud Bungalow, Kerala
+- Ramoji Film City, Hyderabad
+- South Park Street Cemetery, Kolkata
+- Satyabama University Road, Chennai
+- Silent Valley Forest, Kerala
+- De Monte Colony, Chennai
+
 ---
 
 # Brain-Damage
@@ -1016,6 +1125,14 @@
 - Guide to GSoC 2026
 - Guide to first internship
 - Guide to learning programming languages
+
+### Concepts Every Intelligent Person Should Know
+
+- Psychology — how humans think, feel, and behave
+- Physics — how the universe operates at every scale
+- Philosophy — how to reason, question, and live
+- Culture & Ideas — how societies and meaning are constructed
+- Strategy & Power — how influence, systems, and control work
 
 ---
 
