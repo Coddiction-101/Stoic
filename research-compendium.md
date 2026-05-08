@@ -5,5 +5,5 @@
 
 <details>
   <summary>Docs</summary>
-  1. The Social Dillema
+ 
 </details>
