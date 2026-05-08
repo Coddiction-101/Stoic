@@ -23,5 +23,6 @@
   <details>
     <summary>Hindi</summary>
     1. Masaan
+    2. October
   </details>
 </details>
