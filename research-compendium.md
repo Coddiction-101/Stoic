@@ -19,4 +19,9 @@
   3. The Social Network
   4. Tenet
   5. Inception
+
+  <details>
+    <summary>Hindi</summary>
+    1. Masaan
+  </details>
 </details>
