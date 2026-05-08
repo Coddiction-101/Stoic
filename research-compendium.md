@@ -19,6 +19,7 @@
   3. The Social Network
   4. Tenet
   5. Inception
+  </details>
 
   <details>
     <summary>Hindi</summary>
@@ -26,5 +27,5 @@
     2. October
     3. Tamasha
     4. The Lunchbox
-  </details>
+    5. Qala
 </details>
