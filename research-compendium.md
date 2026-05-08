@@ -9,3 +9,10 @@
   2. The Antisocial Network
   3. The Social Network
 </details>
+
+<details>
+  <summary>Docs</summary>
+  1. The Social Dillemma
+  2. The Antisocial Network
+  3. The Social Network
+</details>
