@@ -5,5 +5,5 @@
 
 <details>
   <summary>Docs</summary>
-  <!-- Empty section with proper comment -->
+  1. The Social Dillemma
 </details>
