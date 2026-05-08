@@ -8,6 +8,7 @@
   1. The Social Dillemma
   2. The Antisocial Network
   3. The Social Network
+  4. Seaspiracy
 </details>
 
 <details>
