@@ -3,4 +3,6 @@
   - Breaking Bad
 </details>
 
-<details></details>
+<details>
+  <summary></summary>
+</details>
