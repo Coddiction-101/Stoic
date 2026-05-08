@@ -4,5 +4,5 @@
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Docs</summary>
 </details>
