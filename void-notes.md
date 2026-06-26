@@ -240,6 +240,7 @@
 > How systems reshape attention, behavior, and identity.
 
 - Dopamine hijack (social media, gaming, content)
+- Digital Kidnapping
 - Doomscrolling & addiction loops
 - Algorithmic conditioning
 - AI-generated influence on decisions
