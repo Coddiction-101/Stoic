@@ -441,6 +441,58 @@
 
 ---
 
+## XVI-B. **Glitches in Reality — Physics, Perception & Paradox**
+
+> Strange cracks in the fabric of the everyday — quantum quirks, relativistic weirdness, and perceptual illusions that break intuition.
+
+1. 80 Milliseconds Behind Reality
+2. Quantum Tunneling
+3. Observer Changes Reality
+4. Your Atoms Replaced
+5. Time Runs Differently
+6. Invisible Blind Spot
+7. Quantum Entanglement
+8. Hot Water Freezes (Mpemba Effect)
+9. Banach–Tarski Paradox
+10. Quantum Vacuum
+11. Light Experiences Timelessness
+12. Birthday Paradox
+13. Superluminal Expansion
+14. Climbing Liquid
+15. Quantum Bird Navigation
+16. Human Microbiome
+17. Gabriel's Horn
+18. Superconductivity
+19. Benford's Law
+20. Frozen Time Near the Event Horizon of a Black Hole
+21. Non-Newtonian Fluid
+22. Blindsight
+23. Cosmic Horizon
+24. Quantum Eraser
+25. Collatz Conjecture
+26. Tetrachromatic Vision
+27. Spaghettification
+28. Change Blindness
+29. Observable Universe
+30. Stopped Clock Illusion
+31. Second Brain
+32. Cold Ending
+33. Quantum Superposition
+34. Vacuum Energy
+35. Uncomputable Problems
+36. Monty Hall Problem
+37. Periodic Tiling
+38. Cherenkov Radiation
+39. Relative Simultaneity
+40. Frame Dragging
+41. Supercooled Water
+42. Bose–Einstein Condensate
+43. Albert's Paradox
+44. Delayed Choice (Quantum Eraser)
+45. Glass Flows
+
+---
+
 ## XVII. **Music Industry — Research Framework**
 
 > How music shapes brain, identity, culture, economy, and the future.
