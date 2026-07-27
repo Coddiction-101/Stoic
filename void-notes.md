@@ -421,6 +421,7 @@
 
 - Inner-child wounds
 - Subconscious beliefs shaping life
+- Existential anxiety
 - Shadow work
 - Death denial & unresolved grief
 - Lack of touch & affection
