@@ -126,8 +126,10 @@
 - Persistent depressive disorder - PDD
 - Major depressive disorder - MDD
 - Bipolar disorder - I, II
+- Cluster - C
 - Social Isolation
 - De-realization
+- Anorexia nervosa
 - Possible depersonalization
 - Short dissociated Episodes
 - Sleep Deprivation effects
