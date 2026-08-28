@@ -34,6 +34,10 @@
   5. Inception
 
   6. Pursuit of happiness
+  
+  7. About Time
+
+  8. The terminal
 
 </details>
 
