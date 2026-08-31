@@ -1,5 +1,3 @@
----
-
 id: newme
 name: NEWME
 legal_name: Fraicheur Retail Private Limited
@@ -1601,6 +1599,5 @@ Use and periodically re-check:
 
 Customer discussions should only be used to identify **patterns**, never as verified financial or operational facts.
 
----
 
 **Last researched:** 31 August 2026
