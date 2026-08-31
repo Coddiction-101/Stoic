@@ -1,5 +1,3 @@
----
-
 id: littlebox-india
 name: Littlebox India
 legal_name: Good Tribe Private Limited
