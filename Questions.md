@@ -7,3 +7,4 @@
 7. Which regional food chains have expanded across India, and how did they do it?
 8. Why do some Indian chains grow huge while others stay local?
 9. How have food prices changed over the last five years?
+10. What makes people choose a food chain over a local dhaba or street-food stall?
