@@ -24,3 +24,4 @@
 24. Personnel Psychology
 25. Consumer and Marketing Psychology
 26. Experimental Psychology / User Research
+27. Machiavellianism, Narcissism, and Psychopathy
