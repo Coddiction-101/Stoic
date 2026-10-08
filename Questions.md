@@ -19,3 +19,5 @@
 19. Neurochemistry and Evolutionary Psychology
 20. Behavior psychology
 21. Cognitive Psychology Vs Cognitive Science
+22. Gestalt Psychology
+23. Cyber-Psychology
