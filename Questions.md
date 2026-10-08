@@ -17,3 +17,4 @@
 17. Charm pricing and Framing
 18. Consumer Psychology
 19. Neurochemistry and Evolutionary Psychology
+20. Behavior psychology
