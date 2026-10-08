@@ -4,3 +4,4 @@
 4. How much of a restaurant’s price goes to ingredients, rent, delivery fees, and profit?
 5. Why can local restaurants sell cheaper than big food chains?
 6. How do Swiggy and Zomato affect restaurant prices and profits?
+7. Which regional food chains have expanded across India, and how did they do it?
