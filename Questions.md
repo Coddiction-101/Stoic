@@ -21,4 +21,6 @@
 21. Cognitive Psychology Vs Cognitive Science
 22. Gestalt Psychology
 23. Cyber-Psychology
-24. Experimental Psychology / User Research
+24. Personnel Psychology
+25. Consumer and Marketing Psychology
+26. Experimental Psychology / User Research
