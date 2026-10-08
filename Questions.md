@@ -2,3 +2,4 @@
 2. How do Indian chains decide menu prices across different cities?
 3. Which chains offer the best value for a meal under ₹100?
 4. How much of a restaurant’s price goes to ingredients, rent, delivery fees, and profit?
+5. Why can local restaurants sell cheaper than big food chains?
