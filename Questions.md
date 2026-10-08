@@ -1,1 +1,1 @@
-1. How does a food chain works?
+1. Why does the same dosa cost ₹60 at one place and ₹200 at another?
