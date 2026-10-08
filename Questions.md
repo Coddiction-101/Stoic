@@ -13,3 +13,4 @@
 13. Emotional Vs Nostalgic Appeals
 14. Sonic branding and Sensory cues
 15. Starcity and Urgency ( FOMO )
+16. Social proof and Endorsements
