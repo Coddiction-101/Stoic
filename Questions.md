@@ -11,7 +11,7 @@
 11. Color Psychology
 12. Dopamine and the "Wanting" Vs "Liking" Trap
 13. Emotional Vs Nostalgic Appeals
-14. Sonic branding and Sensory cues
+14. Sonic branding and Sensory cues / Sensory Marketing
 15. Starcity and Urgency ( FOMO )
 16. Social proof and Endorsements
 17. Charm pricing and Framing
