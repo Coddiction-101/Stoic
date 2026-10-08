@@ -14,17 +14,18 @@
 14. Sonic branding and Sensory cues / Sensory Marketing
 15. Starcity and Urgency ( FOMO )
 16. Social proof and Endorsements
-17. Charm pricing and Framing
-18. Consumer Psychology
-19. Neurochemistry and Evolutionary Psychology
-20. Behavior psychology
-21. Capgras Syndrome
-22. Cognitive Psychology Vs Cognitive Science
-23. Gestalt Psychology
-24. Cyber-Psychology
-25. Personnel Psychology
-26. Consumer and Marketing Psychology
-27. Experimental Psychology / User Research
-28. Machiavellianism, Narcissism, and Psychopathy
-29. Gaslighting and Triangulation
-30. Illusory truth effects
+17. Cotard Delusion
+18. Charm pricing and Framing
+19. Consumer Psychology
+20. Neurochemistry and Evolutionary Psychology
+21. Behavior psychology
+22. Capgras Syndrome
+23. Cognitive Psychology Vs Cognitive Science
+24. Gestalt Psychology
+25. Cyber-Psychology
+26. Personnel Psychology
+27. Consumer and Marketing Psychology
+28. Experimental Psychology / User Research
+29. Machiavellianism, Narcissism, and Psychopathy
+30. Gaslighting and Triangulation
+31. Illusory truth effects
