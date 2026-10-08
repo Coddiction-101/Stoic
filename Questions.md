@@ -14,3 +14,4 @@
 14. Sonic branding and Sensory cues
 15. Starcity and Urgency ( FOMO )
 16. Social proof and Endorsements
+17. Charm pricing and Framing
