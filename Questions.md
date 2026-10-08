@@ -18,12 +18,13 @@
 18. Consumer Psychology
 19. Neurochemistry and Evolutionary Psychology
 20. Behavior psychology
-21. Cognitive Psychology Vs Cognitive Science
-22. Gestalt Psychology
-23. Cyber-Psychology
-24. Personnel Psychology
-25. Consumer and Marketing Psychology
-26. Experimental Psychology / User Research
-27. Machiavellianism, Narcissism, and Psychopathy
-28. Gaslighting and Triangulation
-29. Illusory truth effects
+21. Capgras Syndrome
+22. Cognitive Psychology Vs Cognitive Science
+23. Gestalt Psychology
+24. Cyber-Psychology
+25. Personnel Psychology
+26. Consumer and Marketing Psychology
+27. Experimental Psychology / User Research
+28. Machiavellianism, Narcissism, and Psychopathy
+29. Gaslighting and Triangulation
+30. Illusory truth effects
