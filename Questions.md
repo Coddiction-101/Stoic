@@ -6,3 +6,4 @@
 6. How do Swiggy and Zomato affect restaurant prices and profits?
 7. Which regional food chains have expanded across India, and how did they do it?
 8. Why do some Indian chains grow huge while others stay local?
+9. How have food prices changed over the last five years?
