@@ -15,3 +15,4 @@
 15. Starcity and Urgency ( FOMO )
 16. Social proof and Endorsements
 17. Charm pricing and Framing
+18. Consumer Psychology
