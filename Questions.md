@@ -10,3 +10,4 @@
 10. What makes people choose a food chain over a local dhaba or street-food stall?
 11. Color Psychology
 12. Dopamine and the "Wanting" Vs "Liking" Trap
+13. Emotional Vs Nostalgic Appeals
