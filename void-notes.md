@@ -904,6 +904,11 @@
 
 ---
 
+### Movies
+
+- Atonement
+- Grave of the butterflies
+
 # **Mindf\*cked Conspiracy Theories**
 
 > *A raw index of theories circulating online — from playful fringe speculation to thoroughly debunked and genuinely harmful claims. Listed as topic names only, for reference/research purposes, not as endorsements. Many of these have been disproven by evidence, and some (marked) are recognized as hate-based or actively dangerous propaganda.*
