@@ -100,4 +100,4 @@ Practical        →  Life Hacks, Technical Research, What If
 
 *Do not disturb yourself by imagining your whole life at once — Marcus Aurelius*
 
-When the rain stops, the umbrella becomes heavy for everyone.
+__When the rain stops, the umbrella becomes heavy for everyone._
