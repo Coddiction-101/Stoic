@@ -29,14 +29,4 @@
 29. Machiavellianism, Narcissism, and Psychopathy
 30. Gaslighting and Triangulation
 31. Illusory truth effects
-32. Higher Educations
-33. Private Sector jobs
-34. Govt Career
-35. Independent Career
-36. Backend Developer
-37. Full Stack Developer
-38. Frontend Developer
-39. Cloud / DevOps Engineer
-40. QA Automation Engineer
-41. Software Developer
-42. Systems Programmer
+ 
