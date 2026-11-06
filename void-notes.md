@@ -932,6 +932,9 @@
 - Project Blue Beam
 - Agenda 21 / Agenda 2030
 - FEMA Camps
+- 2020 Simulation Theory
+- 9.11 Structure
+- Apollo Moon Landing 
 - Federal Reserve Secret Control
 - Bohemian Grove Rituals
 - Skull and Bones Secret Society Control
@@ -1383,6 +1386,7 @@
 - What if you never stop thinking about someone wholeheartedly
 - What if you stopped aging but everyone around you didn't
 - What if you found a door in your house that wasn't there yesterday
+- What if you never get healed from the high functional depression in your entire life?
 - What if every decision you didn't make played out in a parallel life you could watch
 - What if your phone showed a photo of you sleeping, taken from inside your locked room?
 
